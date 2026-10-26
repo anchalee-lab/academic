@@ -1,5 +1,24 @@
 [
   {
+    "id": "YW69-23266",
+    "createdAt": "2026-10-26T17:55:33.232Z",
+    "updatedAt": "2026-10-26T17:55:33.232Z",
+    "reporterName": "ทดสอบระบบ",
+    "reporterRole": "ครู",
+    "reporterPhone": "0812345678",
+    "reporterEmail": "",
+    "category": "teacher",
+    "targetName": "ครูสมศักดิ์",
+    "issueType": "ตารางสอนชนกัน",
+    "urgency": "normal",
+    "dayPeriod": "วันจันทร์ คาบ 2",
+    "description": "ทดสอบความพร้อมระบบก่อน deploy",
+    "status": "pending",
+    "adminResponse": null,
+    "resolvedBy": null,
+    "resolvedAt": null
+  },
+  {
     "id": "YW69-58816",
     "createdAt": "2026-10-26T16:56:22.588Z",
     "updatedAt": "2026-10-26T17:45:32.712Z",

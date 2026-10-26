@@ -16,3 +16,14 @@ desktop.ini
 
 # Temporary test folders
 test_crop/
+
+# Environment variables & secrets
+.env
+.env.local
+.env.*.local
+
+# Databases & local stores
+data/database.sqlite
+*.sqlite
+*.sqlite3
+*.db
