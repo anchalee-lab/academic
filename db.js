@@ -517,7 +517,17 @@ class SqliteDatabase {
       ]
     );
 
-    return this.getIssueById(newId);
+    const created = await this.getIssueById(newId);
+
+    // Sync to issues.json so files stay synchronized
+    try {
+      const allIssues = await this.getIssues();
+      fs.writeFileSync(SEED_ISSUES_PATH, JSON.stringify(allIssues, null, 2), 'utf-8');
+    } catch (e) {
+      // ignore write error if read-only
+    }
+
+    return created;
   }
 
   async updateIssue(id, updateData) {
@@ -541,7 +551,17 @@ class SqliteDatabase {
       [status, adminResponse, resolvedBy, resolvedAt, nowIso, id.trim()]
     );
 
-    return this.getIssueById(id);
+    const updated = await this.getIssueById(id);
+
+    // Sync to issues.json
+    try {
+      const allIssues = await this.getIssues();
+      fs.writeFileSync(SEED_ISSUES_PATH, JSON.stringify(allIssues, null, 2), 'utf-8');
+    } catch (e) {
+      // ignore
+    }
+
+    return updated;
   }
 
   async getStats() {

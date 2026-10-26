@@ -906,20 +906,34 @@ async function submitIssueReport(e) {
 
   const formData = new FormData(form);
   const payload = {
-    reporterName: formData.get('reporterName'),
-    reporterRole: formData.get('reporterRole'),
-    reporterPhone: formData.get('reporterPhone'),
-    reporterEmail: formData.get('reporterEmail'),
-    category: formData.get('category'),
-    targetName: formData.get('targetName'),
-    issueType: formData.get('issueType'),
-    urgency: formData.get('urgency'),
-    dayPeriod: formData.get('dayPeriod'),
-    description: formData.get('description'),
+    reporterName: (formData.get('reporterName') || '').trim(),
+    reporterRole: formData.get('reporterRole') || 'นักเรียน',
+    reporterPhone: (formData.get('reporterPhone') || '').trim(),
+    reporterEmail: (formData.get('reporterEmail') || '').trim(),
+    category: formData.get('category') || 'student',
+    targetName: (formData.get('targetName') || '').trim(),
+    issueType: formData.get('issueType') || 'คาบเรียนซ้ำซ้อน / คาบชนกัน',
+    urgency: formData.get('urgency') || 'normal',
+    dayPeriod: (formData.get('dayPeriod') || '').trim(),
+    description: (formData.get('description') || '').trim(),
   };
 
+  if (!payload.reporterName) {
+    alert('กรุณากรอกชื่อ-นามสกุลของผู้แจ้ง');
+    const nameInput = form.querySelector('[name="reporterName"]');
+    if (nameInput) nameInput.focus();
+    return;
+  }
+
+  if (!payload.reporterPhone) {
+    alert('กรุณากรอกเบอร์โทรศัพท์ติดต่อสำหรับติดตามสถานะ');
+    const phoneInput = form.querySelector('[name="reporterPhone"]');
+    if (phoneInput) phoneInput.focus();
+    return;
+  }
+
   btn.disabled = true;
-  btn.innerHTML = `<i data-lucide="loader" class="w-4 h-4 animate-spin"></i> กำลังส่งข้อมูล...`;
+  btn.innerHTML = `<i data-lucide="loader" class="w-4 h-4 animate-spin"></i> กำลังบันทึกลงฐานข้อมูล...`;
 
   try {
     const res = await fetch('/api/issues', {
@@ -929,15 +943,27 @@ async function submitIssueReport(e) {
     });
 
     const data = await res.json();
-    if (data.success) {
-      ticketIdText.textContent = data.data.id;
+    if (data.success && data.data) {
+      const ticketId = data.data.id;
+      ticketIdText.textContent = ticketId;
       successAlert.classList.remove('hidden');
       form.reset();
-      window.scrollTo({ top: 100, behavior: 'smooth' });
+
+      // Set tracking search value ready
+      const trackInput = document.getElementById('trackSearchInput');
+      if (trackInput) trackInput.value = ticketId;
+
+      // Scroll to alert
+      successAlert.scrollIntoView({ behavior: 'smooth', block: 'center' });
 
       // Refresh admin list & stats
       loadAdminIssues();
       loadCatalogAndStats();
+
+      // Show instant confirmation
+      setTimeout(() => {
+        alert(`บันทึกเรื่องแจ้งปัญหาลงฐานข้อมูลเรียบร้อยแล้ว!\n\nหมายเลขคำร้อง (Ticket ID): ${ticketId}\nผู้แจ้ง: ${data.data.reporterName}\nเบอร์โทร: ${data.data.reporterPhone}\n\nท่านสามารถนำหมายเลขนี้หรือเบอร์โทรศัพท์ไปค้นหาติดตามผลได้ทันทีครับ`);
+      }, 200);
     } else {
       alert(data.message || 'เกิดข้อผิดพลาดในการบันทึก กรุณาลองใหม่อีกครั้ง');
     }

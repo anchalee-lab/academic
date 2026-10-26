@@ -127,7 +127,7 @@ app.get('/api/issues/:id', async (req, res) => {
 // API: Create new Issue
 app.post('/api/issues', async (req, res) => {
   try {
-    const {
+    let {
       reporterName,
       reporterRole,
       reporterPhone,
@@ -140,18 +140,46 @@ app.post('/api/issues', async (req, res) => {
       description
     } = req.body;
 
-    if (!reporterName || !reporterPhone || !category || !targetName || !description) {
+    reporterName = (reporterName || '').trim();
+    reporterPhone = (reporterPhone || '').trim();
+    category = (category || 'student').trim();
+    targetName = (targetName || '').trim();
+    issueType = (issueType || 'คาบเรียนซ้ำซ้อน / คาบชนกัน').trim();
+    urgency = (urgency || 'normal').trim();
+    dayPeriod = (dayPeriod || 'ไม่ระบุ').trim();
+    description = (description || '').trim();
+
+    if (!reporterName) {
       return res.status(400).json({
         success: false,
-        message: 'กรุณากรอกข้อมูลที่จำเป็นให้ครบถ้วน (ชื่อ, เบอร์โทร, ประเภท, เป้าหมาย, รายละเอียด)'
+        message: 'กรุณากรอกชื่อ-นามสกุลของผู้แจ้ง'
       });
+    }
+
+    if (!reporterPhone) {
+      return res.status(400).json({
+        success: false,
+        message: 'กรุณากรอกเบอร์โทรศัพท์ติดต่อ'
+      });
+    }
+
+    // Smart defaults if targetName or description are empty
+    if (!targetName) {
+      if (category === 'student') targetName = 'ตารางเรียนนักเรียน (ไม่ระบุห้อง)';
+      else if (category === 'teacher') targetName = 'ตารางสอนครู (ไม่ระบุครู)';
+      else if (category === 'room') targetName = 'ตารางการใช้ห้อง (ไม่ระบุห้อง)';
+      else targetName = 'ตารางเรียนทั่วไป';
+    }
+
+    if (!description) {
+      description = `แจ้งปัญหาเรื่อง ${issueType} โดย ${reporterName} (${reporterRole || 'ผู้แจ้ง'})`;
     }
 
     const newIssue = await db.createIssue({
       reporterName,
-      reporterRole,
+      reporterRole: reporterRole || 'นักเรียน',
       reporterPhone,
-      reporterEmail,
+      reporterEmail: (reporterEmail || '').trim(),
       category,
       targetName,
       issueType,
@@ -166,7 +194,8 @@ app.post('/api/issues', async (req, res) => {
       data: newIssue
     });
   } catch (err) {
-    res.status(500).json({ success: false, message: err.message });
+    console.error('Error creating issue in database:', err);
+    res.status(500).json({ success: false, message: 'เกิดข้อผิดพลาดในการบันทึกข้อมูล: ' + err.message });
   }
 });
 
