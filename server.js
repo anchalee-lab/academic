@@ -2,6 +2,7 @@ const express = require('express');
 const cors = require('cors');
 const fs = require('fs');
 const path = require('path');
+const os = require('os');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -25,6 +26,10 @@ app.use('/pdf/classroom', express.static(path.join(__dirname, 'classroom')));
 const CATALOG_PATH = path.join(__dirname, 'data', 'catalog.json');
 const ISSUES_PATH = path.join(__dirname, 'data', 'issues.json');
 const AUTH_PATH = path.join(__dirname, 'data', 'auth.json');
+const TMP_ISSUES_PATH = path.join(os.tmpdir(), 'issues.json');
+
+// In-memory cache for issues (essential for Vercel read-only filesystem)
+let inMemoryIssues = null;
 
 // In-memory active sessions
 const activeSessions = new Map();
@@ -81,22 +86,59 @@ function getCatalog() {
   return { students: [], teachers: [], rooms: [] };
 }
 
-// Helper to load issues
+// Helper to load issues (in-memory + /tmp support for Vercel read-only filesystem)
 function getIssues() {
+  if (inMemoryIssues !== null) {
+    return inMemoryIssues;
+  }
+
+  // 1. Try reading from /tmp/issues.json first (modified on Vercel)
+  if (fs.existsSync(TMP_ISSUES_PATH)) {
+    try {
+      inMemoryIssues = JSON.parse(fs.readFileSync(TMP_ISSUES_PATH, 'utf-8'));
+      return inMemoryIssues;
+    } catch (e) {
+      console.warn('Error reading from /tmp/issues.json', e.message);
+    }
+  }
+
+  // 2. Read from bundled data/issues.json
   if (fs.existsSync(ISSUES_PATH)) {
     try {
-      return JSON.parse(fs.readFileSync(ISSUES_PATH, 'utf-8'));
+      inMemoryIssues = JSON.parse(fs.readFileSync(ISSUES_PATH, 'utf-8'));
+      return inMemoryIssues;
     } catch (e) {
       console.error('Error reading issues.json', e);
       return [];
     }
   }
-  return [];
+
+  inMemoryIssues = [];
+  return inMemoryIssues;
 }
 
-// Helper to save issues
+// Helper to save issues (handles local filesystem and Vercel EROFS read-only)
 function saveIssues(issues) {
-  fs.writeFileSync(ISSUES_PATH, JSON.stringify(issues, null, 2), 'utf-8');
+  inMemoryIssues = issues;
+
+  // Try saving to local data/issues.json first (normal local environment)
+  try {
+    fs.writeFileSync(ISSUES_PATH, JSON.stringify(issues, null, 2), 'utf-8');
+    return;
+  } catch (err) {
+    // If running in a read-only filesystem (EROFS like Vercel / AWS Lambda)
+    if (err.code === 'EROFS' || err.code === 'EACCES') {
+      try {
+        fs.writeFileSync(TMP_ISSUES_PATH, JSON.stringify(issues, null, 2), 'utf-8');
+        console.log('Saved issues to writable /tmp/issues.json successfully (Serverless mode)');
+      } catch (tmpErr) {
+        console.warn('Could not write to /tmp, keeping issues in-memory:', tmpErr.message);
+      }
+      return;
+    }
+    // Other errors: fallback to /tmp or in-memory
+    console.warn('Filesystem error, keeping in-memory:', err.message);
+  }
 }
 
 // API: Get Catalog
@@ -348,10 +390,14 @@ app.patch('/api/issues/:id', requireAuth, (req, res) => {
 });
 
 // Start Server
-app.listen(PORT, () => {
-  console.log(`=======================================================`);
-  console.log(`  ระบบตารางเรียนตารางสอน โรงเรียนหาดใหญ่วิทยาลัย`);
-  console.log(`  ภาคเรียนที่ 2 ปีการศึกษา 2569`);
-  console.log(`  Server running at http://localhost:${PORT}`);
-  console.log(`=======================================================`);
-});
+if (require.main === module) {
+  app.listen(PORT, () => {
+    console.log(`=======================================================`);
+    console.log(`  ระบบตารางเรียนตารางสอน โรงเรียนหาดใหญ่วิทยาลัย`);
+    console.log(`  ภาคเรียนที่ 2 ปีการศึกษา 2569`);
+    console.log(`  Server running at http://localhost:${PORT}`);
+    console.log(`=======================================================`);
+  });
+}
+
+module.exports = app;
