@@ -1,0 +1,3818 @@
+{
+  "students": [
+    {
+      "grade": "ม.1",
+      "className": "ม.1/2",
+      "room": "7503(EP)",
+      "periods": 45,
+      "pdf": "ม.1.pdf",
+      "page": 1
+    },
+    {
+      "grade": "ม.1",
+      "className": "ม.1/1",
+      "room": "7502(EP)",
+      "periods": 45,
+      "pdf": "ม.1.pdf",
+      "page": 1
+    },
+    {
+      "grade": "ม.1",
+      "className": "ม.1/4",
+      "room": "8404(SMA)",
+      "periods": 52,
+      "pdf": "ม.1.pdf",
+      "page": 2
+    },
+    {
+      "grade": "ม.1",
+      "className": "ม.1/3",
+      "room": "8403(SMA)",
+      "periods": 52,
+      "pdf": "ม.1.pdf",
+      "page": 2
+    },
+    {
+      "grade": "ม.1",
+      "className": "ม.1/6",
+      "room": "ราชาวดี3(SMTE)",
+      "periods": 50,
+      "pdf": "ม.1.pdf",
+      "page": 3
+    },
+    {
+      "grade": "ม.1",
+      "className": "ม.1/5",
+      "room": "430(SMT)",
+      "periods": 55,
+      "pdf": "ม.1.pdf",
+      "page": 3
+    },
+    {
+      "grade": "ม.1",
+      "className": "ม.1/8",
+      "room": "",
+      "periods": 45,
+      "pdf": "ม.1.pdf",
+      "page": 4
+    },
+    {
+      "grade": "ม.1",
+      "className": "ม.1/7",
+      "room": "",
+      "periods": 44,
+      "pdf": "ม.1.pdf",
+      "page": 4
+    },
+    {
+      "grade": "ม.1",
+      "className": "ม.1/10",
+      "room": "",
+      "periods": 45,
+      "pdf": "ม.1.pdf",
+      "page": 5
+    },
+    {
+      "grade": "ม.1",
+      "className": "ม.1/9",
+      "room": "",
+      "periods": 45,
+      "pdf": "ม.1.pdf",
+      "page": 5
+    },
+    {
+      "grade": "ม.1",
+      "className": "ม.1/12",
+      "room": "",
+      "periods": 45,
+      "pdf": "ม.1.pdf",
+      "page": 6
+    },
+    {
+      "grade": "ม.1",
+      "className": "ม.1/11",
+      "room": "",
+      "periods": 45,
+      "pdf": "ม.1.pdf",
+      "page": 6
+    },
+    {
+      "grade": "ม.1",
+      "className": "ม.1/14",
+      "room": "441(EIS)",
+      "periods": 43,
+      "pdf": "ม.1.pdf",
+      "page": 7
+    },
+    {
+      "grade": "ม.1",
+      "className": "ม.1/13",
+      "room": "",
+      "periods": 45,
+      "pdf": "ม.1.pdf",
+      "page": 7
+    },
+    {
+      "grade": "ม.2",
+      "className": "ม.2/2",
+      "room": "7505",
+      "periods": 48,
+      "pdf": "ม.2.pdf",
+      "page": 1
+    },
+    {
+      "grade": "ม.2",
+      "className": "ม.2/1",
+      "room": "7504",
+      "periods": 48,
+      "pdf": "ม.2.pdf",
+      "page": 1
+    },
+    {
+      "grade": "ม.2",
+      "className": "ม.2/4",
+      "room": "8501(SMA)",
+      "periods": 55,
+      "pdf": "ม.2.pdf",
+      "page": 2
+    },
+    {
+      "grade": "ม.2",
+      "className": "ม.2/3",
+      "room": "8405(SMA)",
+      "periods": 55,
+      "pdf": "ม.2.pdf",
+      "page": 2
+    },
+    {
+      "grade": "ม.2",
+      "className": "ม.2/6",
+      "room": "ราชาวดี2(SMTE)",
+      "periods": 47,
+      "pdf": "ม.2.pdf",
+      "page": 3
+    },
+    {
+      "grade": "ม.2",
+      "className": "ม.2/5",
+      "room": "431(SMT)",
+      "periods": 54,
+      "pdf": "ม.2.pdf",
+      "page": 3
+    },
+    {
+      "grade": "ม.2",
+      "className": "ม.2/8",
+      "room": "",
+      "periods": 47,
+      "pdf": "ม.2.pdf",
+      "page": 4
+    },
+    {
+      "grade": "ม.2",
+      "className": "ม.2/7",
+      "room": "",
+      "periods": 46,
+      "pdf": "ม.2.pdf",
+      "page": 4
+    },
+    {
+      "grade": "ม.2",
+      "className": "ม.2/10",
+      "room": "",
+      "periods": 47,
+      "pdf": "ม.2.pdf",
+      "page": 5
+    },
+    {
+      "grade": "ม.2",
+      "className": "ม.2/9",
+      "room": "",
+      "periods": 47,
+      "pdf": "ม.2.pdf",
+      "page": 5
+    },
+    {
+      "grade": "ม.2",
+      "className": "ม.2/12",
+      "room": "",
+      "periods": 45,
+      "pdf": "ม.2.pdf",
+      "page": 6
+    },
+    {
+      "grade": "ม.2",
+      "className": "ม.2/11",
+      "room": "",
+      "periods": 47,
+      "pdf": "ม.2.pdf",
+      "page": 6
+    },
+    {
+      "grade": "ม.2",
+      "className": "ม.2/14",
+      "room": "442(EIS)",
+      "periods": 45,
+      "pdf": "ม.2.pdf",
+      "page": 7
+    },
+    {
+      "grade": "ม.2",
+      "className": "ม.2/13",
+      "room": "",
+      "periods": 47,
+      "pdf": "ม.2.pdf",
+      "page": 7
+    },
+    {
+      "grade": "ม.3",
+      "className": "ม.3/2",
+      "room": "7513",
+      "periods": 46,
+      "pdf": "ม.3.pdf",
+      "page": 1
+    },
+    {
+      "grade": "ม.3",
+      "className": "ม.3/1",
+      "room": "7515",
+      "periods": 46,
+      "pdf": "ม.3.pdf",
+      "page": 1
+    },
+    {
+      "grade": "ม.3",
+      "className": "ม.3/4",
+      "room": "8503(SMA)",
+      "periods": 50,
+      "pdf": "ม.3.pdf",
+      "page": 2
+    },
+    {
+      "grade": "ม.3",
+      "className": "ม.3/3",
+      "room": "8502(SMA)",
+      "periods": 50,
+      "pdf": "ม.3.pdf",
+      "page": 2
+    },
+    {
+      "grade": "ม.3",
+      "className": "ม.3/6",
+      "room": "432(SMT)",
+      "periods": 51,
+      "pdf": "ม.3.pdf",
+      "page": 3
+    },
+    {
+      "grade": "ม.3",
+      "className": "ม.3/5",
+      "room": "8504(SMA)",
+      "periods": 50,
+      "pdf": "ม.3.pdf",
+      "page": 3
+    },
+    {
+      "grade": "ม.3",
+      "className": "ม.3/8",
+      "room": "",
+      "periods": 45,
+      "pdf": "ม.3.pdf",
+      "page": 4
+    },
+    {
+      "grade": "ม.3",
+      "className": "ม.3/7",
+      "room": "ราชาวดี1(SMTE)",
+      "periods": 44,
+      "pdf": "ม.3.pdf",
+      "page": 4
+    },
+    {
+      "grade": "ม.3",
+      "className": "ม.3/10",
+      "room": "",
+      "periods": 45,
+      "pdf": "ม.3.pdf",
+      "page": 5
+    },
+    {
+      "grade": "ม.3",
+      "className": "ม.3/9",
+      "room": "",
+      "periods": 45,
+      "pdf": "ม.3.pdf",
+      "page": 5
+    },
+    {
+      "grade": "ม.3",
+      "className": "ม.3/12",
+      "room": "",
+      "periods": 45,
+      "pdf": "ม.3.pdf",
+      "page": 6
+    },
+    {
+      "grade": "ม.3",
+      "className": "ม.3/11",
+      "room": "",
+      "periods": 45,
+      "pdf": "ม.3.pdf",
+      "page": 6
+    },
+    {
+      "grade": "ม.3",
+      "className": "ม.3/14",
+      "room": "443(EIS)",
+      "periods": 43,
+      "pdf": "ม.3.pdf",
+      "page": 7
+    },
+    {
+      "grade": "ม.3",
+      "className": "ม.3/13",
+      "room": "",
+      "periods": 45,
+      "pdf": "ม.3.pdf",
+      "page": 7
+    },
+    {
+      "grade": "ม.4",
+      "className": "ม.4/2",
+      "room": "8505(SMA)",
+      "periods": 51,
+      "pdf": "ม.4.pdf",
+      "page": 1
+    },
+    {
+      "grade": "ม.4",
+      "className": "ม.4/1",
+      "room": "8302",
+      "periods": 50,
+      "pdf": "ม.4.pdf",
+      "page": 1
+    },
+    {
+      "grade": "ม.4",
+      "className": "ม.4/4",
+      "room": "8602(SMA)",
+      "periods": 51,
+      "pdf": "ม.4.pdf",
+      "page": 2
+    },
+    {
+      "grade": "ม.4",
+      "className": "ม.4/3",
+      "room": "8601(SMA)",
+      "periods": 51,
+      "pdf": "ม.4.pdf",
+      "page": 2
+    },
+    {
+      "grade": "ม.4",
+      "className": "ม.4/6",
+      "room": "",
+      "periods": 49,
+      "pdf": "ม.4.pdf",
+      "page": 3
+    },
+    {
+      "grade": "ม.4",
+      "className": "ม.4/5",
+      "room": "433(SMT)",
+      "periods": 51,
+      "pdf": "ม.4.pdf",
+      "page": 3
+    },
+    {
+      "grade": "ม.4",
+      "className": "ม.4/8",
+      "room": "",
+      "periods": 49,
+      "pdf": "ม.4.pdf",
+      "page": 4
+    },
+    {
+      "grade": "ม.4",
+      "className": "ม.4/7",
+      "room": "",
+      "periods": 49,
+      "pdf": "ม.4.pdf",
+      "page": 4
+    },
+    {
+      "grade": "ม.4",
+      "className": "ม.4/10",
+      "room": "",
+      "periods": 49,
+      "pdf": "ม.4.pdf",
+      "page": 5
+    },
+    {
+      "grade": "ม.4",
+      "className": "ม.4/9",
+      "room": "",
+      "periods": 49,
+      "pdf": "ม.4.pdf",
+      "page": 5
+    },
+    {
+      "grade": "ม.4",
+      "className": "ม.4/12",
+      "room": "7512",
+      "periods": 48,
+      "pdf": "ม.4.pdf",
+      "page": 6
+    },
+    {
+      "grade": "ม.4",
+      "className": "ม.4/11",
+      "room": "",
+      "periods": 49,
+      "pdf": "ม.4.pdf",
+      "page": 6
+    },
+    {
+      "grade": "ม.4",
+      "className": "ม.4/14",
+      "room": "",
+      "periods": 46,
+      "pdf": "ม.4.pdf",
+      "page": 7
+    },
+    {
+      "grade": "ม.4",
+      "className": "ม.4/13",
+      "room": "",
+      "periods": 44,
+      "pdf": "ม.4.pdf",
+      "page": 7
+    },
+    {
+      "grade": "ม.4",
+      "className": "ม.4/16",
+      "room": "",
+      "periods": 45,
+      "pdf": "ม.4.pdf",
+      "page": 8
+    },
+    {
+      "grade": "ม.4",
+      "className": "ม.4/15",
+      "room": "",
+      "periods": 50,
+      "pdf": "ม.4.pdf",
+      "page": 8
+    },
+    {
+      "grade": "ม.4",
+      "className": "ม.4/18",
+      "room": "",
+      "periods": 45,
+      "pdf": "ม.4.pdf",
+      "page": 9
+    },
+    {
+      "grade": "ม.4",
+      "className": "ม.4/17",
+      "room": "",
+      "periods": 45,
+      "pdf": "ม.4.pdf",
+      "page": 9
+    },
+    {
+      "grade": "ม.4",
+      "className": "ม.4/20",
+      "room": "8304",
+      "periods": 50,
+      "pdf": "ม.4.pdf",
+      "page": 10
+    },
+    {
+      "grade": "ม.4",
+      "className": "ม.4/19",
+      "room": "7603",
+      "periods": 43,
+      "pdf": "ม.4.pdf",
+      "page": 10
+    },
+    {
+      "grade": "ม.5",
+      "className": "ม.5/2",
+      "room": "8603(SMA)",
+      "periods": 46,
+      "pdf": "ม.5.pdf",
+      "page": 1
+    },
+    {
+      "grade": "ม.5",
+      "className": "ม.5/1",
+      "room": "8303",
+      "periods": 48,
+      "pdf": "ม.5.pdf",
+      "page": 1
+    },
+    {
+      "grade": "ม.5",
+      "className": "ม.5/4",
+      "room": "8605(SMA)",
+      "periods": 46,
+      "pdf": "ม.5.pdf",
+      "page": 2
+    },
+    {
+      "grade": "ม.5",
+      "className": "ม.5/3",
+      "room": "8604(SMA)",
+      "periods": 46,
+      "pdf": "ม.5.pdf",
+      "page": 2
+    },
+    {
+      "grade": "ม.5",
+      "className": "ม.5/6",
+      "room": "",
+      "periods": 48,
+      "pdf": "ม.5.pdf",
+      "page": 3
+    },
+    {
+      "grade": "ม.5",
+      "className": "ม.5/5",
+      "room": "243",
+      "periods": 44,
+      "pdf": "ม.5.pdf",
+      "page": 3
+    },
+    {
+      "grade": "ม.5",
+      "className": "ม.5/8",
+      "room": "",
+      "periods": 48,
+      "pdf": "ม.5.pdf",
+      "page": 4
+    },
+    {
+      "grade": "ม.5",
+      "className": "ม.5/7",
+      "room": "",
+      "periods": 48,
+      "pdf": "ม.5.pdf",
+      "page": 4
+    },
+    {
+      "grade": "ม.5",
+      "className": "ม.5/10",
+      "room": "",
+      "periods": 48,
+      "pdf": "ม.5.pdf",
+      "page": 5
+    },
+    {
+      "grade": "ม.5",
+      "className": "ม.5/9",
+      "room": "",
+      "periods": 48,
+      "pdf": "ม.5.pdf",
+      "page": 5
+    },
+    {
+      "grade": "ม.5",
+      "className": "ม.5/12",
+      "room": "7511",
+      "periods": 48,
+      "pdf": "ม.5.pdf",
+      "page": 6
+    },
+    {
+      "grade": "ม.5",
+      "className": "ม.5/11",
+      "room": "",
+      "periods": 48,
+      "pdf": "ม.5.pdf",
+      "page": 6
+    },
+    {
+      "grade": "ม.5",
+      "className": "ม.5/14",
+      "room": "",
+      "periods": 45,
+      "pdf": "ม.5.pdf",
+      "page": 7
+    },
+    {
+      "grade": "ม.5",
+      "className": "ม.5/13",
+      "room": "",
+      "periods": 42,
+      "pdf": "ม.5.pdf",
+      "page": 7
+    },
+    {
+      "grade": "ม.5",
+      "className": "ม.5/16",
+      "room": "",
+      "periods": 47,
+      "pdf": "ม.5.pdf",
+      "page": 8
+    },
+    {
+      "grade": "ม.5",
+      "className": "ม.5/15",
+      "room": "",
+      "periods": 47,
+      "pdf": "ม.5.pdf",
+      "page": 8
+    },
+    {
+      "grade": "ม.5",
+      "className": "ม.5/18",
+      "room": "",
+      "periods": 49,
+      "pdf": "ม.5.pdf",
+      "page": 9
+    },
+    {
+      "grade": "ม.5",
+      "className": "ม.5/17",
+      "room": "",
+      "periods": 46,
+      "pdf": "ม.5.pdf",
+      "page": 9
+    },
+    {
+      "grade": "ม.5",
+      "className": "ม.5/20",
+      "room": "8310",
+      "periods": 48,
+      "pdf": "ม.5.pdf",
+      "page": 10
+    },
+    {
+      "grade": "ม.5",
+      "className": "ม.5/19",
+      "room": "7602",
+      "periods": 43,
+      "pdf": "ม.5.pdf",
+      "page": 10
+    },
+    {
+      "grade": "ม.6",
+      "className": "ม.6/2",
+      "room": "8701(SMA)",
+      "periods": 46,
+      "pdf": "ม.6.pdf",
+      "page": 1
+    },
+    {
+      "grade": "ม.6",
+      "className": "ม.6/1",
+      "room": "8702",
+      "periods": 49,
+      "pdf": "ม.6.pdf",
+      "page": 1
+    },
+    {
+      "grade": "ม.6",
+      "className": "ม.6/4",
+      "room": "8704(SMA)",
+      "periods": 46,
+      "pdf": "ม.6.pdf",
+      "page": 2
+    },
+    {
+      "grade": "ม.6",
+      "className": "ม.6/3",
+      "room": "8703(SMA)",
+      "periods": 46,
+      "pdf": "ม.6.pdf",
+      "page": 2
+    },
+    {
+      "grade": "ม.6",
+      "className": "ม.6/6",
+      "room": "",
+      "periods": 48,
+      "pdf": "ม.6.pdf",
+      "page": 3
+    },
+    {
+      "grade": "ม.6",
+      "className": "ม.6/5",
+      "room": "244(SMT)",
+      "periods": 44,
+      "pdf": "ม.6.pdf",
+      "page": 3
+    },
+    {
+      "grade": "ม.6",
+      "className": "ม.6/8",
+      "room": "",
+      "periods": 48,
+      "pdf": "ม.6.pdf",
+      "page": 4
+    },
+    {
+      "grade": "ม.6",
+      "className": "ม.6/7",
+      "room": "",
+      "periods": 48,
+      "pdf": "ม.6.pdf",
+      "page": 4
+    },
+    {
+      "grade": "ม.6",
+      "className": "ม.6/10",
+      "room": "",
+      "periods": 48,
+      "pdf": "ม.6.pdf",
+      "page": 5
+    },
+    {
+      "grade": "ม.6",
+      "className": "ม.6/9",
+      "room": "",
+      "periods": 48,
+      "pdf": "ม.6.pdf",
+      "page": 5
+    },
+    {
+      "grade": "ม.6",
+      "className": "ม.6/12",
+      "room": "7510",
+      "periods": 50,
+      "pdf": "ม.6.pdf",
+      "page": 6
+    },
+    {
+      "grade": "ม.6",
+      "className": "ม.6/11",
+      "room": "",
+      "periods": 48,
+      "pdf": "ม.6.pdf",
+      "page": 6
+    },
+    {
+      "grade": "ม.6",
+      "className": "ม.6/14",
+      "room": "",
+      "periods": 44,
+      "pdf": "ม.6.pdf",
+      "page": 7
+    },
+    {
+      "grade": "ม.6",
+      "className": "ม.6/13",
+      "room": "",
+      "periods": 44,
+      "pdf": "ม.6.pdf",
+      "page": 7
+    },
+    {
+      "grade": "ม.6",
+      "className": "ม.6/16",
+      "room": "",
+      "periods": 49,
+      "pdf": "ม.6.pdf",
+      "page": 8
+    },
+    {
+      "grade": "ม.6",
+      "className": "ม.6/15",
+      "room": "",
+      "periods": 49,
+      "pdf": "ม.6.pdf",
+      "page": 8
+    },
+    {
+      "grade": "ม.6",
+      "className": "ม.6/18",
+      "room": "",
+      "periods": 49,
+      "pdf": "ม.6.pdf",
+      "page": 9
+    },
+    {
+      "grade": "ม.6",
+      "className": "ม.6/17",
+      "room": "",
+      "periods": 49,
+      "pdf": "ม.6.pdf",
+      "page": 9
+    },
+    {
+      "grade": "ม.6",
+      "className": "ม.6/20",
+      "room": "ราชาวดี 4",
+      "periods": 49,
+      "pdf": "ม.6.pdf",
+      "page": 10
+    },
+    {
+      "grade": "ม.6",
+      "className": "ม.6/19",
+      "room": "7601",
+      "periods": 47,
+      "pdf": "ม.6.pdf",
+      "page": 10
+    }
+  ],
+  "teachers": [
+    {
+      "department": "EP",
+      "code": "862",
+      "name": "นางรัสกาญจน์ จันทร์งามดิศกุล",
+      "rawName": "862 นางรัสกาญจน์ จันทร์งามดิศกุล",
+      "periods": 29,
+      "pdf": "EP.pdf",
+      "page": 1
+    },
+    {
+      "department": "EP",
+      "code": "861",
+      "name": "นางสาลินี เย็นใจ",
+      "rawName": "861 นางสาลินี เย็นใจ",
+      "periods": 30,
+      "pdf": "EP.pdf",
+      "page": 1
+    },
+    {
+      "department": "EP",
+      "code": "864",
+      "name": "Mr.Dejan Davidovic EP",
+      "rawName": "864 Mr.Dejan Davidovic EP",
+      "periods": 23,
+      "pdf": "EP.pdf",
+      "page": 2
+    },
+    {
+      "department": "EP",
+      "code": "863",
+      "name": "Mr.Sone Nelson Njume",
+      "rawName": "863 Mr.Sone Nelson Njume",
+      "periods": 23,
+      "pdf": "EP.pdf",
+      "page": 2
+    },
+    {
+      "department": "EP",
+      "code": "871",
+      "name": "MrGert Jacobus Venter EP",
+      "rawName": "871 MrGert Jacobus Venter EP",
+      "periods": 21,
+      "pdf": "EP.pdf",
+      "page": 3
+    },
+    {
+      "department": "EP",
+      "code": "866",
+      "name": "MissDenelly EP",
+      "rawName": "866 MissDenelly EP",
+      "periods": 21,
+      "pdf": "EP.pdf",
+      "page": 3
+    },
+    {
+      "department": "EP",
+      "code": "873",
+      "name": "Mr.Lizalou Isabel Y. Daraido",
+      "rawName": "873 Mr.Lizalou Isabel Y. Daraido",
+      "periods": 23,
+      "pdf": "EP.pdf",
+      "page": 4
+    },
+    {
+      "department": "EP",
+      "code": "872",
+      "name": "MrsCharito C. Tago EP",
+      "rawName": "872 MrsCharito C. Tago EP",
+      "periods": 21,
+      "pdf": "EP.pdf",
+      "page": 4
+    },
+    {
+      "department": "EP",
+      "code": "879",
+      "name": "Ms.Laura Torresan",
+      "rawName": "879 Ms.Laura Torresan",
+      "periods": 18,
+      "pdf": "EP.pdf",
+      "page": 5
+    },
+    {
+      "department": "EP",
+      "code": "878",
+      "name": "MsDuduzile Moyo",
+      "rawName": "878 MsDuduzile Moyo",
+      "periods": 15,
+      "pdf": "EP.pdf",
+      "page": 5
+    },
+    {
+      "department": "EP",
+      "code": "881",
+      "name": "New A Teacher",
+      "rawName": "881 New A Teacher",
+      "periods": 18,
+      "pdf": "EP.pdf",
+      "page": 6
+    },
+    {
+      "department": "EP",
+      "code": "880",
+      "name": "New C Teacher",
+      "rawName": "880 New C Teacher",
+      "periods": 17,
+      "pdf": "EP.pdf",
+      "page": 6
+    },
+    {
+      "department": "EP",
+      "code": "883",
+      "name": "Mr.New B Teacher",
+      "rawName": "883 Mr.New B Teacher",
+      "periods": 19,
+      "pdf": "EP.pdf",
+      "page": 7
+    },
+    {
+      "department": "EP",
+      "code": "882",
+      "name": "Ms.May Flor C. Comprendio",
+      "rawName": "882 Ms.May Flor C. Comprendio",
+      "periods": 17,
+      "pdf": "EP.pdf",
+      "page": 7
+    },
+    {
+      "department": "SMA-SMT",
+      "code": "932",
+      "name": "นายธีรวีร์ ธนาบุลเศรษฐ์",
+      "rawName": "932 นายธีรวีร์ ธนาบุลเศรษฐ์",
+      "periods": 29,
+      "pdf": "SMA-SMT.pdf",
+      "page": 1
+    },
+    {
+      "department": "SMA-SMT",
+      "code": "931",
+      "name": "นายตฤณ สุขฤกษ์",
+      "rawName": "931 นายตฤณ สุขฤกษ์",
+      "periods": 23,
+      "pdf": "SMA-SMT.pdf",
+      "page": 1
+    },
+    {
+      "department": "SMA-SMT",
+      "code": "935",
+      "name": "MrSarbjeet Singh Kainth SMA",
+      "rawName": "935 MrSarbjeet Singh Kainth SMA",
+      "periods": 25,
+      "pdf": "SMA-SMT.pdf",
+      "page": 2
+    },
+    {
+      "department": "SMA-SMT",
+      "code": "933",
+      "name": "นางสาวเอมวิกา จิตโสภา",
+      "rawName": "933 นางสาวเอมวิกา จิตโสภา",
+      "periods": 21,
+      "pdf": "SMA-SMT.pdf",
+      "page": 2
+    },
+    {
+      "department": "SMA-SMT",
+      "code": "941",
+      "name": "Mr.Stephan SMT",
+      "rawName": "941 Mr.Stephan SMT",
+      "periods": 31,
+      "pdf": "SMA-SMT.pdf",
+      "page": 3
+    },
+    {
+      "department": "SMA-SMT",
+      "code": "938",
+      "name": "Nils Van Sante",
+      "rawName": "938 Nils Van Sante",
+      "periods": 21,
+      "pdf": "SMA-SMT.pdf",
+      "page": 3
+    },
+    {
+      "department": "การงานอาชีพ",
+      "code": "702",
+      "name": "นางสาวนาฏอนงค์ เพชรสีดํา",
+      "rawName": "702 นางสาวนาฏอนงค์ เพชรสีดํา",
+      "periods": 43,
+      "pdf": "การงานอาชีพ.pdf",
+      "page": 1
+    },
+    {
+      "department": "การงานอาชีพ",
+      "code": "701",
+      "name": "นางคณองสิน ถิ่นจะนะ",
+      "rawName": "701 นางคณองสิน ถิ่นจะนะ",
+      "periods": 31,
+      "pdf": "การงานอาชีพ.pdf",
+      "page": 1
+    },
+    {
+      "department": "การงานอาชีพ",
+      "code": "704",
+      "name": "นางสาวจุฑาทิพย์... ประพาน",
+      "rawName": "704 นางสาวจุฑาทิพย์... ประพาน",
+      "periods": 31,
+      "pdf": "การงานอาชีพ.pdf",
+      "page": 2
+    },
+    {
+      "department": "การงานอาชีพ",
+      "code": "703",
+      "name": "นางสาวร่อหม๊ะ หีมเบ็ญหมัด",
+      "rawName": "703 นางสาวร่อหม๊ะ หีมเบ็ญหมัด",
+      "periods": 29,
+      "pdf": "การงานอาชีพ.pdf",
+      "page": 2
+    },
+    {
+      "department": "การงานอาชีพ",
+      "code": "705",
+      "name": "นายปิโยรส รัตนชล",
+      "rawName": "705 นายปิโยรส รัตนชล",
+      "periods": 28,
+      "pdf": "การงานอาชีพ.pdf",
+      "page": 3
+    },
+    {
+      "department": "คณิตศาสตร์",
+      "code": "202",
+      "name": "นางวันวิสาข์ โรจน์สุวรรณ",
+      "rawName": "202 นางวันวิสาข์ โรจน์สุวรรณ",
+      "periods": 30,
+      "pdf": "คณิตศาสตร์.pdf",
+      "page": 1
+    },
+    {
+      "department": "คณิตศาสตร์",
+      "code": "201",
+      "name": "นายอานนท์ ชูดํา",
+      "rawName": "201 นายอานนท์ ชูดํา",
+      "periods": 32,
+      "pdf": "คณิตศาสตร์.pdf",
+      "page": 1
+    },
+    {
+      "department": "คณิตศาสตร์",
+      "code": "204",
+      "name": "นางเบญจวรรณ ปังเอี้ยน",
+      "rawName": "204 นางเบญจวรรณ ปังเอี้ยน",
+      "periods": 31,
+      "pdf": "คณิตศาสตร์.pdf",
+      "page": 2
+    },
+    {
+      "department": "คณิตศาสตร์",
+      "code": "203",
+      "name": "นางสาวอรทัย ประทุมชาติภักดี",
+      "rawName": "203 นางสาวอรทัย ประทุมชาติภักดี",
+      "periods": 27,
+      "pdf": "คณิตศาสตร์.pdf",
+      "page": 2
+    },
+    {
+      "department": "คณิตศาสตร์",
+      "code": "206",
+      "name": "นางจิตรลดา ไชยดิษฐ์",
+      "rawName": "206 นางจิตรลดา ไชยดิษฐ์",
+      "periods": 29,
+      "pdf": "คณิตศาสตร์.pdf",
+      "page": 3
+    },
+    {
+      "department": "คณิตศาสตร์",
+      "code": "205",
+      "name": "นางสาวตวงพร ยุทธสะอาด",
+      "rawName": "205 นางสาวตวงพร ยุทธสะอาด",
+      "periods": 30,
+      "pdf": "คณิตศาสตร์.pdf",
+      "page": 3
+    },
+    {
+      "department": "คณิตศาสตร์",
+      "code": "208",
+      "name": "นางนัสชา อนุภาพ",
+      "rawName": "208 นางนัสชา อนุภาพ",
+      "periods": 30,
+      "pdf": "คณิตศาสตร์.pdf",
+      "page": 4
+    },
+    {
+      "department": "คณิตศาสตร์",
+      "code": "207",
+      "name": "นางสาวสุมาลี หลิมเฮงฮะ",
+      "rawName": "207 นางสาวสุมาลี หลิมเฮงฮะ",
+      "periods": 31,
+      "pdf": "คณิตศาสตร์.pdf",
+      "page": 4
+    },
+    {
+      "department": "คณิตศาสตร์",
+      "code": "210",
+      "name": "นายธนัชกฤศ จันทร์ผุด",
+      "rawName": "210 นายธนัชกฤศ จันทร์ผุด",
+      "periods": 31,
+      "pdf": "คณิตศาสตร์.pdf",
+      "page": 5
+    },
+    {
+      "department": "คณิตศาสตร์",
+      "code": "209",
+      "name": "นางสาวนนทสรวง รุจิรารุ่งเรือง",
+      "rawName": "209 นางสาวนนทสรวง รุจิรารุ่งเรือง",
+      "periods": 29,
+      "pdf": "คณิตศาสตร์.pdf",
+      "page": 5
+    },
+    {
+      "department": "คณิตศาสตร์",
+      "code": "212",
+      "name": "นางจุฬาลักษณ์ ยางทอง",
+      "rawName": "212 นางจุฬาลักษณ์ ยางทอง",
+      "periods": 30,
+      "pdf": "คณิตศาสตร์.pdf",
+      "page": 6
+    },
+    {
+      "department": "คณิตศาสตร์",
+      "code": "211",
+      "name": "นางศศิวิมล ขุ้ยยิ้ม",
+      "rawName": "211 นางศศิวิมล ขุ้ยยิ้ม",
+      "periods": 29,
+      "pdf": "คณิตศาสตร์.pdf",
+      "page": 6
+    },
+    {
+      "department": "คณิตศาสตร์",
+      "code": "214",
+      "name": "นางจันทร์เพ็ญ บุญรัศมี",
+      "rawName": "214 นางจันทร์เพ็ญ บุญรัศมี",
+      "periods": 30,
+      "pdf": "คณิตศาสตร์.pdf",
+      "page": 7
+    },
+    {
+      "department": "คณิตศาสตร์",
+      "code": "213",
+      "name": "นางสาวชนิภา จุลนวล",
+      "rawName": "213 นางสาวชนิภา จุลนวล",
+      "periods": 29,
+      "pdf": "คณิตศาสตร์.pdf",
+      "page": 7
+    },
+    {
+      "department": "คณิตศาสตร์",
+      "code": "216",
+      "name": "นางสาวรัมภา ตั้งโรจนะกุล",
+      "rawName": "216 นางสาวรัมภา ตั้งโรจนะกุล",
+      "periods": 33,
+      "pdf": "คณิตศาสตร์.pdf",
+      "page": 8
+    },
+    {
+      "department": "คณิตศาสตร์",
+      "code": "215",
+      "name": "นายภิญโญ ยลธรรม์ธรรม",
+      "rawName": "215 นายภิญโญ ยลธรรม์ธรรม",
+      "periods": 29,
+      "pdf": "คณิตศาสตร์.pdf",
+      "page": 8
+    },
+    {
+      "department": "คณิตศาสตร์",
+      "code": "218",
+      "name": "นางสาวอุไรวรรณ บัวคีรี",
+      "rawName": "218 นางสาวอุไรวรรณ บัวคีรี",
+      "periods": 33,
+      "pdf": "คณิตศาสตร์.pdf",
+      "page": 9
+    },
+    {
+      "department": "คณิตศาสตร์",
+      "code": "217",
+      "name": "นางศิริพร จินดาราม",
+      "rawName": "217 นางศิริพร จินดาราม",
+      "periods": 31,
+      "pdf": "คณิตศาสตร์.pdf",
+      "page": 9
+    },
+    {
+      "department": "คณิตศาสตร์",
+      "code": "220",
+      "name": "นางเกวลิน ไชยสวัสดื์",
+      "rawName": "220 นางเกวลิน ไชยสวัสดื์",
+      "periods": 28,
+      "pdf": "คณิตศาสตร์.pdf",
+      "page": 10
+    },
+    {
+      "department": "คณิตศาสตร์",
+      "code": "219",
+      "name": "นางศิวนาถ- สุวรรณมณี",
+      "rawName": "219 นางศิวนาถ- สุวรรณมณี",
+      "periods": 29,
+      "pdf": "คณิตศาสตร์.pdf",
+      "page": 10
+    },
+    {
+      "department": "คณิตศาสตร์",
+      "code": "222",
+      "name": "นางสาวกาญจนา เจริญช่วย",
+      "rawName": "222 นางสาวกาญจนา เจริญช่วย",
+      "periods": 29,
+      "pdf": "คณิตศาสตร์.pdf",
+      "page": 11
+    },
+    {
+      "department": "คณิตศาสตร์",
+      "code": "221",
+      "name": "นางณิชชา จันทกาญจน์",
+      "rawName": "221 นางณิชชา จันทกาญจน์",
+      "periods": 32,
+      "pdf": "คณิตศาสตร์.pdf",
+      "page": 11
+    },
+    {
+      "department": "คณิตศาสตร์",
+      "code": "224",
+      "name": "นางอินทิรา ศรีรัตนโชติ",
+      "rawName": "224 นางอินทิรา ศรีรัตนโชติ",
+      "periods": 31,
+      "pdf": "คณิตศาสตร์.pdf",
+      "page": 12
+    },
+    {
+      "department": "คณิตศาสตร์",
+      "code": "223",
+      "name": "นายเฉลิมศิลป์ พิชญเวทย์วงศา",
+      "rawName": "223 นายเฉลิมศิลป์ พิชญเวทย์วงศา",
+      "periods": 33,
+      "pdf": "คณิตศาสตร์.pdf",
+      "page": 12
+    },
+    {
+      "department": "คณิตศาสตร์",
+      "code": "226",
+      "name": "นางสุริวรรณ เทพนะ",
+      "rawName": "226 นางสุริวรรณ เทพนะ",
+      "periods": 29,
+      "pdf": "คณิตศาสตร์.pdf",
+      "page": 13
+    },
+    {
+      "department": "คณิตศาสตร์",
+      "code": "225",
+      "name": "นายปนนท์ สิทธิสาร",
+      "rawName": "225 นายปนนท์ สิทธิสาร",
+      "periods": 34,
+      "pdf": "คณิตศาสตร์.pdf",
+      "page": 13
+    },
+    {
+      "department": "คณิตศาสตร์",
+      "code": "229",
+      "name": "นางสาวพุทธชาติ ศรีประไพ",
+      "rawName": "229 นางสาวพุทธชาติ ศรีประไพ",
+      "periods": 29,
+      "pdf": "คณิตศาสตร์.pdf",
+      "page": 14
+    },
+    {
+      "department": "คณิตศาสตร์",
+      "code": "228",
+      "name": "นายวรุตม์ พรหมแก้ว",
+      "rawName": "228 นายวรุตม์ พรหมแก้ว",
+      "periods": 31,
+      "pdf": "คณิตศาสตร์.pdf",
+      "page": 14
+    },
+    {
+      "department": "คณิตศาสตร์",
+      "code": "230",
+      "name": "นางพิพิศพร โอภาศรีโรจน์",
+      "rawName": "230 นางพิพิศพร โอภาศรีโรจน์",
+      "periods": 32,
+      "pdf": "คณิตศาสตร์.pdf",
+      "page": 15
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "802",
+      "name": "นางสาวสุภาณี หมอเต๊ะ",
+      "rawName": "802 นางสาวสุภาณี หมอเต๊ะ",
+      "periods": 33,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 1
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "801",
+      "name": "นายนิติธร ษัฏเสน",
+      "rawName": "801 นายนิติธร ษัฏเสน",
+      "periods": 28,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 1
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "804",
+      "name": "นางมาลัย ลักษณะถาวร",
+      "rawName": "804 นางมาลัย ลักษณะถาวร",
+      "periods": 32,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 2
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "803",
+      "name": "นางภูริชา พรหมเคลื่อน",
+      "rawName": "803 นางภูริชา พรหมเคลื่อน",
+      "periods": 29,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 2
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "806",
+      "name": "นางฉลวย เคเวนดิเคท",
+      "rawName": "806 นางฉลวย เคเวนดิเคท",
+      "periods": 34,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 3
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "805",
+      "name": "นางสาวศิวนาถ จินตวาณิชกร",
+      "rawName": "805 นางสาวศิวนาถ จินตวาณิชกร",
+      "periods": 30,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 3
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "808",
+      "name": "นางภัทรา แก้วประดิษฐ์",
+      "rawName": "808 นางภัทรา แก้วประดิษฐ์",
+      "periods": 29,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 4
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "807",
+      "name": "นางเพลินตา พินิจสุวรรณ",
+      "rawName": "807 นางเพลินตา พินิจสุวรรณ",
+      "periods": 28,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 4
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "810",
+      "name": "นางสาวกัญญารัตน์ รักษ์แก้ว",
+      "rawName": "810 นางสาวกัญญารัตน์ รักษ์แก้ว",
+      "periods": 33,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 5
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "809",
+      "name": "นางโสรยา ดาแม",
+      "rawName": "809 นางโสรยา ดาแม",
+      "periods": 33,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 5
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "812",
+      "name": "นางสาวพรภิกษุ สุวรรณรักษา",
+      "rawName": "812 นางสาวพรภิกษุ สุวรรณรักษา",
+      "periods": 29,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 6
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "811",
+      "name": "นางสาวสุนันท์ธิษา อังโชติพันธ์",
+      "rawName": "811 นางสาวสุนันท์ธิษา อังโชติพันธ์",
+      "periods": 30,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 6
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "814",
+      "name": "นางสาวชนัญชิดา ไชยเมือง",
+      "rawName": "814 นางสาวชนัญชิดา ไชยเมือง",
+      "periods": 35,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 7
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "813",
+      "name": "นายเอกชัย- ไพชํานาญ",
+      "rawName": "813 นายเอกชัย- ไพชํานาญ",
+      "periods": 27,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 7
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "816",
+      "name": "นางสาวเกสินี สังเมียน",
+      "rawName": "816 นางสาวเกสินี สังเมียน",
+      "periods": 32,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 8
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "815",
+      "name": "นางสาวพิชญา โอทอง",
+      "rawName": "815 นางสาวพิชญา โอทอง",
+      "periods": 35,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 8
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "819",
+      "name": "Mr.Tan Chong Kai",
+      "rawName": "819 Mr.Tan Chong Kai",
+      "periods": 27,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 9
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "818",
+      "name": "Ms.Rose Guantero",
+      "rawName": "818 Ms.Rose Guantero",
+      "periods": 27,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 9
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "821",
+      "name": "Mr.Raymund Meyer",
+      "rawName": "821 Mr.Raymund Meyer",
+      "periods": 27,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 10
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "820",
+      "name": "MissRhuvie May Rutab",
+      "rawName": "820 MissRhuvie May Rutab",
+      "periods": 27,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 10
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "823",
+      "name": "Mr.Victor Kungu Mburu",
+      "rawName": "823 Mr.Victor Kungu Mburu",
+      "periods": 27,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 11
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "822",
+      "name": "Mr.Ilya Popov",
+      "rawName": "822 Mr.Ilya Popov",
+      "periods": 27,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 11
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "825",
+      "name": "นายธนวัฒน์ ภักดี",
+      "rawName": "825 นายธนวัฒน์ ภักดี",
+      "periods": 27,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 12
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "824",
+      "name": "Mr.Francis Isla Bercero",
+      "rawName": "824 Mr.Francis Isla Bercero",
+      "periods": 7,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 12
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "827",
+      "name": "นางสาววนิดา.. สุนทร",
+      "rawName": "827 นางสาววนิดา.. สุนทร",
+      "periods": 26,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 13
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "826",
+      "name": "นางสาวมัณฑนา ธนูสังข์",
+      "rawName": "826 นางสาวมัณฑนา ธนูสังข์",
+      "periods": 30,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 13
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "835",
+      "name": "นางโซฟียะห์ สิเดะ",
+      "rawName": "835 นางโซฟียะห์ สิเดะ",
+      "periods": 28,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 14
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "828",
+      "name": "นางสาวนริศรา ไพโรจน์บวร",
+      "rawName": "828 นางสาวนริศรา ไพโรจน์บวร",
+      "periods": 26,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 14
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "837",
+      "name": "MissKIM SUEUN",
+      "rawName": "837 MissKIM SUEUN",
+      "periods": 7,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 15
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "836",
+      "name": "นางอทิตยา ศรีวิรัตน์",
+      "rawName": "836 นางอทิตยา ศรีวิรัตน์",
+      "periods": 27,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 15
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "841",
+      "name": "นางสาวนํ้าฝน เพ็งสร้อย",
+      "rawName": "841 นางสาวนํ้าฝน เพ็งสร้อย",
+      "periods": 30,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 16
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "838",
+      "name": "นางสาวมัลลิกา ษัฏเสน",
+      "rawName": "838 นางสาวมัลลิกา ษัฏเสน",
+      "periods": 27,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 16
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "843",
+      "name": "นางสาวสุภาพร แซ่หลี",
+      "rawName": "843 นางสาวสุภาพร แซ่หลี",
+      "periods": 31,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 17
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "842",
+      "name": "นางสาวสิรีธร หลําเบ็ลสะ",
+      "rawName": "842 นางสาวสิรีธร หลําเบ็ลสะ",
+      "periods": 30,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 17
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "845",
+      "name": "MissRen Xiaoyu",
+      "rawName": "845 MissRen Xiaoyu",
+      "periods": 23,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 18
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "844",
+      "name": "นางสาวรุจิรา เจียรวัฒนวงศ์",
+      "rawName": "844 นางสาวรุจิรา เจียรวัฒนวงศ์",
+      "periods": 29,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 18
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "852",
+      "name": "นางพรเพชร รวมเงาะ",
+      "rawName": "852 นางพรเพชร รวมเงาะ",
+      "periods": 29,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 19
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "851",
+      "name": "นางสาวนันทภัทร แก้วสุวรรณ",
+      "rawName": "851 นางสาวนันทภัทร แก้วสุวรรณ",
+      "periods": 29,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 19
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "857",
+      "name": "นางสาวยารียะห์ ราแดง",
+      "rawName": "857 นางสาวยารียะห์ ราแดง",
+      "periods": 29,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 20
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "854",
+      "name": "MissJohana Maupas",
+      "rawName": "854 MissJohana Maupas",
+      "periods": 9,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 20
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "858",
+      "name": "นางสาวณัฐชา สุกิจประภานนท์",
+      "rawName": "858 นางสาวณัฐชา สุกิจประภานนท์",
+      "periods": 29,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 21
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "876",
+      "name": "Mr.A ฝรั่งเศส",
+      "rawName": "876 Mr.A ฝรั่งเศส",
+      "periods": 20,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 22
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "875",
+      "name": "นางสาวชุติกาญจน์ บุญเกื้อ",
+      "rawName": "875 นางสาวชุติกาญจน์ บุญเกื้อ",
+      "periods": 29,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 22
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "884",
+      "name": "Mr.Khurrum F. Masih",
+      "rawName": "884 Mr.Khurrum F. Masih",
+      "periods": 22,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 23
+    },
+    {
+      "department": "ต่างประเทศ",
+      "code": "877",
+      "name": "Mr.LEE JAEHA",
+      "rawName": "877 Mr.LEE JAEHA",
+      "periods": 18,
+      "pdf": "ต่างประเทศ.pdf",
+      "page": 23
+    },
+    {
+      "department": "ภาษาไทย",
+      "code": "102",
+      "name": "นางโสภิตา กาพย์เกิด",
+      "rawName": "102 นางโสภิตา กาพย์เกิด",
+      "periods": 32,
+      "pdf": "ภาษาไทย.pdf",
+      "page": 1
+    },
+    {
+      "department": "ภาษาไทย",
+      "code": "101",
+      "name": "นางสาวพิมพ์สิริ สัจจกุล",
+      "rawName": "101 นางสาวพิมพ์สิริ สัจจกุล",
+      "periods": 32,
+      "pdf": "ภาษาไทย.pdf",
+      "page": 1
+    },
+    {
+      "department": "ภาษาไทย",
+      "code": "104",
+      "name": "นางสาวทิฏฐา สุวรรณกิจ",
+      "rawName": "104 นางสาวทิฏฐา สุวรรณกิจ",
+      "periods": 31,
+      "pdf": "ภาษาไทย.pdf",
+      "page": 2
+    },
+    {
+      "department": "ภาษาไทย",
+      "code": "103",
+      "name": "นางสาวนิสรา และตี",
+      "rawName": "103 นางสาวนิสรา และตี",
+      "periods": 32,
+      "pdf": "ภาษาไทย.pdf",
+      "page": 2
+    },
+    {
+      "department": "ภาษาไทย",
+      "code": "106",
+      "name": "นางสาวจาริณี เนียมเกต",
+      "rawName": "106 นางสาวจาริณี เนียมเกต",
+      "periods": 35,
+      "pdf": "ภาษาไทย.pdf",
+      "page": 3
+    },
+    {
+      "department": "ภาษาไทย",
+      "code": "105",
+      "name": "นางสาวบุปผาพันธุ์ บุปผะโก",
+      "rawName": "105 นางสาวบุปผาพันธุ์ บุปผะโก",
+      "periods": 29,
+      "pdf": "ภาษาไทย.pdf",
+      "page": 3
+    },
+    {
+      "department": "ภาษาไทย",
+      "code": "108",
+      "name": "นายเฉลิมกาญจน์ เทพยา",
+      "rawName": "108 นายเฉลิมกาญจน์ เทพยา",
+      "periods": 31,
+      "pdf": "ภาษาไทย.pdf",
+      "page": 4
+    },
+    {
+      "department": "ภาษาไทย",
+      "code": "107",
+      "name": "นางจีรนัย สุขมี",
+      "rawName": "107 นางจีรนัย สุขมี",
+      "periods": 35,
+      "pdf": "ภาษาไทย.pdf",
+      "page": 4
+    },
+    {
+      "department": "ภาษาไทย",
+      "code": "110",
+      "name": "นางสาววิไลพร คงอินทร์",
+      "rawName": "110 นางสาววิไลพร คงอินทร์",
+      "periods": 30,
+      "pdf": "ภาษาไทย.pdf",
+      "page": 5
+    },
+    {
+      "department": "ภาษาไทย",
+      "code": "109",
+      "name": "นางสาวมนภร เหมมัน",
+      "rawName": "109 นางสาวมนภร เหมมัน",
+      "periods": 26,
+      "pdf": "ภาษาไทย.pdf",
+      "page": 5
+    },
+    {
+      "department": "ภาษาไทย",
+      "code": "112",
+      "name": "นายณัฐพงษ์ บุญรัตน์",
+      "rawName": "112 นายณัฐพงษ์ บุญรัตน์",
+      "periods": 35,
+      "pdf": "ภาษาไทย.pdf",
+      "page": 6
+    },
+    {
+      "department": "ภาษาไทย",
+      "code": "111",
+      "name": "นางสาววนิดา หมัดสุริยะ",
+      "rawName": "111 นางสาววนิดา หมัดสุริยะ",
+      "periods": 34,
+      "pdf": "ภาษาไทย.pdf",
+      "page": 6
+    },
+    {
+      "department": "ภาษาไทย",
+      "code": "114",
+      "name": "นางสาวพัชราภรณ์ ทิพย์มณี",
+      "rawName": "114 นางสาวพัชราภรณ์ ทิพย์มณี",
+      "periods": 31,
+      "pdf": "ภาษาไทย.pdf",
+      "page": 7
+    },
+    {
+      "department": "ภาษาไทย",
+      "code": "113",
+      "name": "นายวงศกร. ศรีระแก้ว",
+      "rawName": "113 นายวงศกร. ศรีระแก้ว",
+      "periods": 32,
+      "pdf": "ภาษาไทย.pdf",
+      "page": 7
+    },
+    {
+      "department": "ภาษาไทย",
+      "code": "116",
+      "name": "นายไทยA",
+      "rawName": "116 นายไทยA",
+      "periods": 24,
+      "pdf": "ภาษาไทย.pdf",
+      "page": 8
+    },
+    {
+      "department": "ภาษาไทย",
+      "code": "115",
+      "name": "นางสาวชนิกานต์ ชูช่วย",
+      "rawName": "115 นางสาวชนิกานต์ ชูช่วย",
+      "periods": 32,
+      "pdf": "ภาษาไทย.pdf",
+      "page": 8
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "302",
+      "name": "นายวชิรพัฒน์ จิวานิจ",
+      "rawName": "302 นายวชิรพัฒน์ จิวานิจ",
+      "periods": 29,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 1
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "301",
+      "name": "นางณัฐวดี ประทุมวัน",
+      "rawName": "301 นางณัฐวดี ประทุมวัน",
+      "periods": 26,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 1
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "304",
+      "name": "นางสาวมาเรียม วัทนาด",
+      "rawName": "304 นางสาวมาเรียม วัทนาด",
+      "periods": 25,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 2
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "303",
+      "name": "นางไวยุด๊ะ เหตุเหล๊าะ",
+      "rawName": "303 นางไวยุด๊ะ เหตุเหล๊าะ",
+      "periods": 25,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 2
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "306",
+      "name": "นายดิสทัต ยงประเดิม",
+      "rawName": "306 นายดิสทัต ยงประเดิม",
+      "periods": 36,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 3
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "305",
+      "name": "นางสาวพิชญเนตร เสวตโสธร",
+      "rawName": "305 นางสาวพิชญเนตร เสวตโสธร",
+      "periods": 33,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 3
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "308",
+      "name": "นางศิราณี อัมรักเลิศ",
+      "rawName": "308 นางศิราณี อัมรักเลิศ",
+      "periods": 24,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 4
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "307",
+      "name": "นายปิยะชนก์ เถาสุวรรณ",
+      "rawName": "307 นายปิยะชนก์ เถาสุวรรณ",
+      "periods": 31,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 4
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "310",
+      "name": "นางนิตยา เจยาคม",
+      "rawName": "310 นางนิตยา เจยาคม",
+      "periods": 42,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 5
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "309",
+      "name": "นางสาวรติธรณ ใจห้าว",
+      "rawName": "309 นางสาวรติธรณ ใจห้าว",
+      "periods": 28,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 5
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "312",
+      "name": "นางละออ พรหมเหมือน",
+      "rawName": "312 นางละออ พรหมเหมือน",
+      "periods": 26,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 6
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "311",
+      "name": "นายพสงค์ แรงสิงห์",
+      "rawName": "311 นายพสงค์ แรงสิงห์",
+      "periods": 25,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 6
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "314",
+      "name": "นายธวัช แพรกทอง",
+      "rawName": "314 นายธวัช แพรกทอง",
+      "periods": 25,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 7
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "313",
+      "name": "นางสาวอาวาตีฟ บาระตายะ",
+      "rawName": "313 นางสาวอาวาตีฟ บาระตายะ",
+      "periods": 25,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 7
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "316",
+      "name": "นางสาวสุนิษา ชายใหม่",
+      "rawName": "316 นางสาวสุนิษา ชายใหม่",
+      "periods": 29,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 8
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "315",
+      "name": "นายโชคชัย แจวิจารณ์",
+      "rawName": "315 นายโชคชัย แจวิจารณ์",
+      "periods": 26,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 8
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "318",
+      "name": "นายสุกฤษฎิ์ จรจะนะ",
+      "rawName": "318 นายสุกฤษฎิ์ จรจะนะ",
+      "periods": 25,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 9
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "317",
+      "name": "นางสุภาพ ยุรพันธ์",
+      "rawName": "317 นางสุภาพ ยุรพันธ์",
+      "periods": 25,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 9
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "320",
+      "name": "นางสาววิลาวัณย์ สัจจกุล",
+      "rawName": "320 นางสาววิลาวัณย์ สัจจกุล",
+      "periods": 31,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 10
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "319",
+      "name": "นายสุวัฒน์ โรจน์สุวรรณ",
+      "rawName": "319 นายสุวัฒน์ โรจน์สุวรรณ",
+      "periods": 29,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 10
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "322",
+      "name": "นางจีรนันท์ บุญยอด",
+      "rawName": "322 นางจีรนันท์ บุญยอด",
+      "periods": 35,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 11
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "321",
+      "name": "นางสาวสุดา- ทองอินทร์",
+      "rawName": "321 นางสาวสุดา- ทองอินทร์",
+      "periods": 36,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 11
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "324",
+      "name": "นางสาวกานต์พิชชา บุญรังศรี",
+      "rawName": "324 นางสาวกานต์พิชชา บุญรังศรี",
+      "periods": 32,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 12
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "323",
+      "name": "นางพอตา สิงห์เกลี้ยง",
+      "rawName": "323 นางพอตา สิงห์เกลี้ยง",
+      "periods": 28,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 12
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "326",
+      "name": "นางสาวบุหลัน โต๊ะขวัญ",
+      "rawName": "326 นางสาวบุหลัน โต๊ะขวัญ",
+      "periods": 25,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 13
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "325",
+      "name": "นางสาวปราณี ดําสองสี",
+      "rawName": "325 นางสาวปราณี ดําสองสี",
+      "periods": 29,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 13
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "328",
+      "name": "นางสาวขวัญฤดี จันทคาร",
+      "rawName": "328 นางสาวขวัญฤดี จันทคาร",
+      "periods": 25,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 14
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "327",
+      "name": "นางนันท์นภัส จันทสโร",
+      "rawName": "327 นางนันท์นภัส จันทสโร",
+      "periods": 30,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 14
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "330",
+      "name": "นางหนึ่งฤดี เพชรสี่หมื่น",
+      "rawName": "330 นางหนึ่งฤดี เพชรสี่หมื่น",
+      "periods": 26,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 15
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "329",
+      "name": "นางชมพูนุช อุทัยรัตน์",
+      "rawName": "329 นางชมพูนุช อุทัยรัตน์",
+      "periods": 25,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 15
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "332",
+      "name": "นางสาวมูรนี มู่ส่า",
+      "rawName": "332 นางสาวมูรนี มู่ส่า",
+      "periods": 25,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 16
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "331",
+      "name": "นางสาวคณาพร เสาวคนธ์",
+      "rawName": "331 นางสาวคณาพร เสาวคนธ์",
+      "periods": 29,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 16
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "334",
+      "name": "นางสาวชนกนาฏ จันทนะ",
+      "rawName": "334 นางสาวชนกนาฏ จันทนะ",
+      "periods": 23,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 17
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "333",
+      "name": "นางสาวสุธิดา รัตนมณี",
+      "rawName": "333 นางสาวสุธิดา รัตนมณี",
+      "periods": 26,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 17
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "336",
+      "name": "นายครูA วิทย์",
+      "rawName": "336 นายครูA วิทย์",
+      "periods": 9,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 18
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "335",
+      "name": "นางสาวรุ่งทิวา ชาญบํารุง",
+      "rawName": "335 นางสาวรุ่งทิวา ชาญบํารุง",
+      "periods": 29,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 18
+    },
+    {
+      "department": "วิทยาศาสตร์",
+      "code": "348",
+      "name": "นางสาวยามีล๊ะ ยีหะ",
+      "rawName": "348 นางสาวยามีล๊ะ ยีหะ",
+      "periods": 29,
+      "pdf": "วิทยาศาสตร์.pdf",
+      "page": 19
+    },
+    {
+      "department": "ศิลปะ",
+      "code": "602",
+      "name": "นางสาวมยุรี เพ็ชรมาลัย",
+      "rawName": "602 นางสาวมยุรี เพ็ชรมาลัย",
+      "periods": 28,
+      "pdf": "ศิลปะ.pdf",
+      "page": 1
+    },
+    {
+      "department": "ศิลปะ",
+      "code": "601",
+      "name": "นางสาวจารี ไชยหมาน",
+      "rawName": "601 นางสาวจารี ไชยหมาน",
+      "periods": 30,
+      "pdf": "ศิลปะ.pdf",
+      "page": 1
+    },
+    {
+      "department": "ศิลปะ",
+      "code": "604",
+      "name": "นายเอกชัย ธงล่อง",
+      "rawName": "604 นายเอกชัย ธงล่อง",
+      "periods": 34,
+      "pdf": "ศิลปะ.pdf",
+      "page": 2
+    },
+    {
+      "department": "ศิลปะ",
+      "code": "603",
+      "name": "นางสาวปริตา ศรีเต้ง",
+      "rawName": "603 นางสาวปริตา ศรีเต้ง",
+      "periods": 30,
+      "pdf": "ศิลปะ.pdf",
+      "page": 2
+    },
+    {
+      "department": "ศิลปะ",
+      "code": "606",
+      "name": "นายจิรวัฒน์ เดชเส้ง",
+      "rawName": "606 นายจิรวัฒน์ เดชเส้ง",
+      "periods": 33,
+      "pdf": "ศิลปะ.pdf",
+      "page": 3
+    },
+    {
+      "department": "ศิลปะ",
+      "code": "605",
+      "name": "นางสาวศิวพร จิโรจน์วณิชชากร",
+      "rawName": "605 นางสาวศิวพร จิโรจน์วณิชชากร",
+      "periods": 29,
+      "pdf": "ศิลปะ.pdf",
+      "page": 3
+    },
+    {
+      "department": "ศิลปะ",
+      "code": "608",
+      "name": "ว่าที่ ร.อ.วิชยานนท์ วรภาพรหมพัฒน์",
+      "rawName": "608 ว่าที่ ร.อ.วิชยานนท์ วรภาพรหมพัฒน์",
+      "periods": 31,
+      "pdf": "ศิลปะ.pdf",
+      "page": 4
+    },
+    {
+      "department": "ศิลปะ",
+      "code": "607",
+      "name": "นายวรรณวัฏ ณ พัทลุง",
+      "rawName": "607 นายวรรณวัฏ ณ พัทลุง",
+      "periods": 27,
+      "pdf": "ศิลปะ.pdf",
+      "page": 4
+    },
+    {
+      "department": "ศิลปะ",
+      "code": "610",
+      "name": "นางนิภา ทองมั่นคง",
+      "rawName": "610 นางนิภา ทองมั่นคง",
+      "periods": 31,
+      "pdf": "ศิลปะ.pdf",
+      "page": 5
+    },
+    {
+      "department": "ศิลปะ",
+      "code": "609",
+      "name": "นางสาวปนัดดา กิจนุรักษ์",
+      "rawName": "609 นางสาวปนัดดา กิจนุรักษ์",
+      "periods": 31,
+      "pdf": "ศิลปะ.pdf",
+      "page": 5
+    },
+    {
+      "department": "ศิลปะ",
+      "code": "612",
+      "name": "นางสาวรภัทรธรณ์ จะรา",
+      "rawName": "612 นางสาวรภัทรธรณ์ จะรา",
+      "periods": 32,
+      "pdf": "ศิลปะ.pdf",
+      "page": 6
+    },
+    {
+      "department": "ศิลปะ",
+      "code": "611",
+      "name": "นางสาวอมลธีรา อ่อนรักษ์",
+      "rawName": "611 นางสาวอมลธีรา อ่อนรักษ์",
+      "periods": 29,
+      "pdf": "ศิลปะ.pdf",
+      "page": 6
+    },
+    {
+      "department": "สังคมศึกษาฯ",
+      "code": "402",
+      "name": "นางสาวอมรรัตน์ พรหมจรรย์",
+      "rawName": "402 นางสาวอมรรัตน์ พรหมจรรย์",
+      "periods": 28,
+      "pdf": "สังคมศึกษาฯ.pdf",
+      "page": 1
+    },
+    {
+      "department": "สังคมศึกษาฯ",
+      "code": "401",
+      "name": "นางจุรีย์ เหมือนขาว",
+      "rawName": "401 นางจุรีย์ เหมือนขาว",
+      "periods": 30,
+      "pdf": "สังคมศึกษาฯ.pdf",
+      "page": 1
+    },
+    {
+      "department": "สังคมศึกษาฯ",
+      "code": "405",
+      "name": "นางจิรา เซ่งสีส่ง",
+      "rawName": "405 นางจิรา เซ่งสีส่ง",
+      "periods": 28,
+      "pdf": "สังคมศึกษาฯ.pdf",
+      "page": 2
+    },
+    {
+      "department": "สังคมศึกษาฯ",
+      "code": "404",
+      "name": "นายศรายุธ ธารเนตร",
+      "rawName": "404 นายศรายุธ ธารเนตร",
+      "periods": 25,
+      "pdf": "สังคมศึกษาฯ.pdf",
+      "page": 2
+    },
+    {
+      "department": "สังคมศึกษาฯ",
+      "code": "408",
+      "name": "นางแก้วมี ชีวชีชวาล",
+      "rawName": "408 นางแก้วมี ชีวชีชวาล",
+      "periods": 32,
+      "pdf": "สังคมศึกษาฯ.pdf",
+      "page": 3
+    },
+    {
+      "department": "สังคมศึกษาฯ",
+      "code": "406",
+      "name": "นางสาวจุฑาทิพย์ เงินแย้ม",
+      "rawName": "406 นางสาวจุฑาทิพย์ เงินแย้ม",
+      "periods": 30,
+      "pdf": "สังคมศึกษาฯ.pdf",
+      "page": 3
+    },
+    {
+      "department": "สังคมศึกษาฯ",
+      "code": "411",
+      "name": "นางชนานันท์ ศรีสุวรรณ",
+      "rawName": "411 นางชนานันท์ ศรีสุวรรณ",
+      "periods": 29,
+      "pdf": "สังคมศึกษาฯ.pdf",
+      "page": 4
+    },
+    {
+      "department": "สังคมศึกษาฯ",
+      "code": "410",
+      "name": "นายศักรินทร์ ดําท่าคลอง",
+      "rawName": "410 นายศักรินทร์ ดําท่าคลอง",
+      "periods": 27,
+      "pdf": "สังคมศึกษาฯ.pdf",
+      "page": 4
+    },
+    {
+      "department": "สังคมศึกษาฯ",
+      "code": "413",
+      "name": "นางสาวศุภลักษณ์ แก้วบุตร",
+      "rawName": "413 นางสาวศุภลักษณ์ แก้วบุตร",
+      "periods": 27,
+      "pdf": "สังคมศึกษาฯ.pdf",
+      "page": 5
+    },
+    {
+      "department": "สังคมศึกษาฯ",
+      "code": "412",
+      "name": "นางลภัสรดา พรหมมณี",
+      "rawName": "412 นางลภัสรดา พรหมมณี",
+      "periods": 29,
+      "pdf": "สังคมศึกษาฯ.pdf",
+      "page": 5
+    },
+    {
+      "department": "สังคมศึกษาฯ",
+      "code": "415",
+      "name": "นางนูรีย๊ะ บ่าวเบ็ญหมัด",
+      "rawName": "415 นางนูรีย๊ะ บ่าวเบ็ญหมัด",
+      "periods": 29,
+      "pdf": "สังคมศึกษาฯ.pdf",
+      "page": 6
+    },
+    {
+      "department": "สังคมศึกษาฯ",
+      "code": "414",
+      "name": "นางกัญญา บิลอะหลี",
+      "rawName": "414 นางกัญญา บิลอะหลี",
+      "periods": 29,
+      "pdf": "สังคมศึกษาฯ.pdf",
+      "page": 6
+    },
+    {
+      "department": "สังคมศึกษาฯ",
+      "code": "417",
+      "name": "นางสาวราชาวดี จันทร์ทอง",
+      "rawName": "417 นางสาวราชาวดี จันทร์ทอง",
+      "periods": 29,
+      "pdf": "สังคมศึกษาฯ.pdf",
+      "page": 7
+    },
+    {
+      "department": "สังคมศึกษาฯ",
+      "code": "416",
+      "name": "นางสุนันทา เลิศวิบูลย์ลักษณ์",
+      "rawName": "416 นางสุนันทา เลิศวิบูลย์ลักษณ์",
+      "periods": 26,
+      "pdf": "สังคมศึกษาฯ.pdf",
+      "page": 7
+    },
+    {
+      "department": "สังคมศึกษาฯ",
+      "code": "419",
+      "name": "นายธนกร บริพันธ์",
+      "rawName": "419 นายธนกร บริพันธ์",
+      "periods": 30,
+      "pdf": "สังคมศึกษาฯ.pdf",
+      "page": 8
+    },
+    {
+      "department": "สังคมศึกษาฯ",
+      "code": "418",
+      "name": "นางสาวชนานันท์- กิมิเส",
+      "rawName": "418 นางสาวชนานันท์- กิมิเส",
+      "periods": 27,
+      "pdf": "สังคมศึกษาฯ.pdf",
+      "page": 8
+    },
+    {
+      "department": "สังคมศึกษาฯ",
+      "code": "421",
+      "name": "นายอรรถพล สุริยวาลย์",
+      "rawName": "421 นายอรรถพล สุริยวาลย์",
+      "periods": 29,
+      "pdf": "สังคมศึกษาฯ.pdf",
+      "page": 9
+    },
+    {
+      "department": "สังคมศึกษาฯ",
+      "code": "420",
+      "name": "นายกฤษดา โรจนสุทธิยานนท์",
+      "rawName": "420 นายกฤษดา โรจนสุทธิยานนท์",
+      "periods": 30,
+      "pdf": "สังคมศึกษาฯ.pdf",
+      "page": 9
+    },
+    {
+      "department": "สังคมศึกษาฯ",
+      "code": "423",
+      "name": "นางสาวมาริสา มลิพันธ์",
+      "rawName": "423 นางสาวมาริสา มลิพันธ์",
+      "periods": 29,
+      "pdf": "สังคมศึกษาฯ.pdf",
+      "page": 10
+    },
+    {
+      "department": "สังคมศึกษาฯ",
+      "code": "422",
+      "name": "นางสาวสุรัยญา ไชยัน",
+      "rawName": "422 นางสาวสุรัยญา ไชยัน",
+      "periods": 32,
+      "pdf": "สังคมศึกษาฯ.pdf",
+      "page": 10
+    },
+    {
+      "department": "สังคมศึกษาฯ",
+      "code": "425",
+      "name": "นางสาวอิงฟ้า เงินศรีเหม",
+      "rawName": "425 นางสาวอิงฟ้า เงินศรีเหม",
+      "periods": 29,
+      "pdf": "สังคมศึกษาฯ.pdf",
+      "page": 11
+    },
+    {
+      "department": "สังคมศึกษาฯ",
+      "code": "424",
+      "name": "นางสาววาทินี บัวบรรจง",
+      "rawName": "424 นางสาววาทินี บัวบรรจง",
+      "periods": 27,
+      "pdf": "สังคมศึกษาฯ.pdf",
+      "page": 11
+    },
+    {
+      "department": "สุขศึกษาฯ",
+      "code": "502",
+      "name": "นายประยูร ศรีวรรณ",
+      "rawName": "502 นายประยูร ศรีวรรณ",
+      "periods": 30,
+      "pdf": "สุขศึกษาฯ.pdf",
+      "page": 1
+    },
+    {
+      "department": "สุขศึกษาฯ",
+      "code": "501",
+      "name": "นายอณุ ไชยสุวรรณ",
+      "rawName": "501 นายอณุ ไชยสุวรรณ",
+      "periods": 29,
+      "pdf": "สุขศึกษาฯ.pdf",
+      "page": 1
+    },
+    {
+      "department": "สุขศึกษาฯ",
+      "code": "504",
+      "name": "นางสาวรุสณาร์ เจ๊ะมะ",
+      "rawName": "504 นางสาวรุสณาร์ เจ๊ะมะ",
+      "periods": 27,
+      "pdf": "สุขศึกษาฯ.pdf",
+      "page": 2
+    },
+    {
+      "department": "สุขศึกษาฯ",
+      "code": "503",
+      "name": "นายสุรวุฒิ กาพย์เกิด",
+      "rawName": "503 นายสุรวุฒิ กาพย์เกิด",
+      "periods": 30,
+      "pdf": "สุขศึกษาฯ.pdf",
+      "page": 2
+    },
+    {
+      "department": "สุขศึกษาฯ",
+      "code": "506",
+      "name": "นางสาววนิดา- ทุมมุนตรี",
+      "rawName": "506 นางสาววนิดา- ทุมมุนตรี",
+      "periods": 29,
+      "pdf": "สุขศึกษาฯ.pdf",
+      "page": 3
+    },
+    {
+      "department": "สุขศึกษาฯ",
+      "code": "505",
+      "name": "นายอนุศร หมัดศรี",
+      "rawName": "505 นายอนุศร หมัดศรี",
+      "periods": 29,
+      "pdf": "สุขศึกษาฯ.pdf",
+      "page": 3
+    },
+    {
+      "department": "สุขศึกษาฯ",
+      "code": "508",
+      "name": "นางสาวนูรานี ยาชิ",
+      "rawName": "508 นางสาวนูรานี ยาชิ",
+      "periods": 27,
+      "pdf": "สุขศึกษาฯ.pdf",
+      "page": 4
+    },
+    {
+      "department": "สุขศึกษาฯ",
+      "code": "507",
+      "name": "นางสาวรัศมี ฉาดสัน",
+      "rawName": "507 นางสาวรัศมี ฉาดสัน",
+      "periods": 27,
+      "pdf": "สุขศึกษาฯ.pdf",
+      "page": 4
+    },
+    {
+      "department": "สุขศึกษาฯ",
+      "code": "509",
+      "name": "นายอภิสิทธิ์ เส็นหมาน",
+      "rawName": "509 นายอภิสิทธิ์ เส็นหมาน",
+      "periods": 30,
+      "pdf": "สุขศึกษาฯ.pdf",
+      "page": 5
+    },
+    {
+      "department": "เทคโนโลยี",
+      "code": "352",
+      "name": "นางอัญชลี สุทธิสว่าง",
+      "rawName": "352 นางอัญชลี สุทธิสว่าง",
+      "periods": 26,
+      "pdf": "เทคโนโลยี.pdf",
+      "page": 1
+    },
+    {
+      "department": "เทคโนโลยี",
+      "code": "351",
+      "name": "นางสาวดวงฤทัย ไชยจารีย์",
+      "rawName": "351 นางสาวดวงฤทัย ไชยจารีย์",
+      "periods": 26,
+      "pdf": "เทคโนโลยี.pdf",
+      "page": 1
+    },
+    {
+      "department": "เทคโนโลยี",
+      "code": "354",
+      "name": "นางสาวชุติมา ก้องศิริวงศ์",
+      "rawName": "354 นางสาวชุติมา ก้องศิริวงศ์",
+      "periods": 30,
+      "pdf": "เทคโนโลยี.pdf",
+      "page": 2
+    },
+    {
+      "department": "เทคโนโลยี",
+      "code": "353",
+      "name": "นางสาวสุวรรณา เพชรแก้ว",
+      "rawName": "353 นางสาวสุวรรณา เพชรแก้ว",
+      "periods": 31,
+      "pdf": "เทคโนโลยี.pdf",
+      "page": 2
+    },
+    {
+      "department": "เทคโนโลยี",
+      "code": "356",
+      "name": "นางสาวฐิติชญา เห็นพร้อม",
+      "rawName": "356 นางสาวฐิติชญา เห็นพร้อม",
+      "periods": 27,
+      "pdf": "เทคโนโลยี.pdf",
+      "page": 3
+    },
+    {
+      "department": "เทคโนโลยี",
+      "code": "355",
+      "name": "นางสาวพิชญาภร หนูอุไร",
+      "rawName": "355 นางสาวพิชญาภร หนูอุไร",
+      "periods": 29,
+      "pdf": "เทคโนโลยี.pdf",
+      "page": 3
+    },
+    {
+      "department": "เทคโนโลยี",
+      "code": "358",
+      "name": "นายอนุรักษ์ ปานบุญ",
+      "rawName": "358 นายอนุรักษ์ ปานบุญ",
+      "periods": 29,
+      "pdf": "เทคโนโลยี.pdf",
+      "page": 4
+    },
+    {
+      "department": "เทคโนโลยี",
+      "code": "357",
+      "name": "นายศิวนนท์ สว่างคุณากร",
+      "rawName": "357 นายศิวนนท์ สว่างคุณากร",
+      "periods": 28,
+      "pdf": "เทคโนโลยี.pdf",
+      "page": 4
+    },
+    {
+      "department": "เทคโนโลยี",
+      "code": "360",
+      "name": "นายฉัตรชัย ชัยพรพิพัฒน์",
+      "rawName": "360 นายฉัตรชัย ชัยพรพิพัฒน์",
+      "periods": 26,
+      "pdf": "เทคโนโลยี.pdf",
+      "page": 5
+    },
+    {
+      "department": "เทคโนโลยี",
+      "code": "359",
+      "name": "นายณัฐสิทธิ์ เหล่าสุวรรณ",
+      "rawName": "359 นายณัฐสิทธิ์ เหล่าสุวรรณ",
+      "periods": 27,
+      "pdf": "เทคโนโลยี.pdf",
+      "page": 5
+    },
+    {
+      "department": "แนะแนว",
+      "code": "902",
+      "name": "นางสาวอํานวยพร จันทร์ชม",
+      "rawName": "902 นางสาวอํานวยพร จันทร์ชม",
+      "periods": 29,
+      "pdf": "แนะแนว.pdf",
+      "page": 1
+    },
+    {
+      "department": "แนะแนว",
+      "code": "901",
+      "name": "นางสาวแก้วกานต์ เทียบทอง",
+      "rawName": "901 นางสาวแก้วกานต์ เทียบทอง",
+      "periods": 27,
+      "pdf": "แนะแนว.pdf",
+      "page": 1
+    },
+    {
+      "department": "แนะแนว",
+      "code": "905",
+      "name": "นางสาวฟาติหม๊ะ นิโสย",
+      "rawName": "905 นางสาวฟาติหม๊ะ นิโสย",
+      "periods": 28,
+      "pdf": "แนะแนว.pdf",
+      "page": 2
+    },
+    {
+      "department": "แนะแนว",
+      "code": "904",
+      "name": "นางกอบกาญจน์ เพชรบางโกระ",
+      "rawName": "904 นางกอบกาญจน์ เพชรบางโกระ",
+      "periods": 25,
+      "pdf": "แนะแนว.pdf",
+      "page": 2
+    },
+    {
+      "department": "แนะแนว",
+      "code": "906",
+      "name": "นางสาวอารีมะ เกตุแก้ว",
+      "rawName": "906 นางสาวอารีมะ เกตุแก้ว",
+      "periods": 27,
+      "pdf": "แนะแนว.pdf",
+      "page": 3
+    }
+  ],
+  "rooms": [
+    {
+      "building": "สนามและห้องสุขศึกษาฯ",
+      "roomName": "สนาม 1",
+      "purpose": "โรงยิม",
+      "raw": "สนาม 1 ห้องของ โรงยิม ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "สนามและห้องสุขศึกษาฯ.pdf",
+      "page": 1
+    },
+    {
+      "building": "สนามและห้องสุขศึกษาฯ",
+      "roomName": "สนาม 2",
+      "purpose": "กรีฑา",
+      "raw": "สนาม 2 ห้องของ กรีฑา ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "สนามและห้องสุขศึกษาฯ.pdf",
+      "page": 2
+    },
+    {
+      "building": "สนามและห้องสุขศึกษาฯ",
+      "roomName": "สนาม 3",
+      "purpose": "ฟุตซอล",
+      "raw": "สนาม 3 ห้องของ ฟุตซอล ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "สนามและห้องสุขศึกษาฯ.pdf",
+      "page": 3
+    },
+    {
+      "building": "สนามและห้องสุขศึกษาฯ",
+      "roomName": "สนาม 4",
+      "purpose": "ยิงปื่น",
+      "raw": "สนาม 4 ห้องของ ยิงปื่น ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "สนามและห้องสุขศึกษาฯ.pdf",
+      "page": 4
+    },
+    {
+      "building": "สนามและห้องสุขศึกษาฯ",
+      "roomName": "สนาม 5",
+      "purpose": "แฮนด์บอล",
+      "raw": "สนาม 5 ห้องของ แฮนด์บอล ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "สนามและห้องสุขศึกษาฯ.pdf",
+      "page": 5
+    },
+    {
+      "building": "สนามและห้องสุขศึกษาฯ",
+      "roomName": "สนาม 6",
+      "purpose": "ปิงปอง",
+      "raw": "สนาม 6 ห้องของ ปิงปอง ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "สนามและห้องสุขศึกษาฯ.pdf",
+      "page": 6
+    },
+    {
+      "building": "สนามและห้องสุขศึกษาฯ",
+      "roomName": "สุขศึกษา",
+      "purpose": "สุขศึกษา",
+      "raw": "สุขศึกษา ห้องของ สุขศึกษา ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "สนามและห้องสุขศึกษาฯ.pdf",
+      "page": 7
+    },
+    {
+      "building": "ห้องราชาวดีและลานศิลป์",
+      "roomName": "ราชาวดี1",
+      "purpose": "ห้อง ม.3/7 SMTE",
+      "raw": "ราชาวดี1 ห้องของ ห้อง ม.3/7 SMTE ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "ห้องราชาวดีและลานศิลป์.pdf",
+      "page": 1
+    },
+    {
+      "building": "ห้องราชาวดีและลานศิลป์",
+      "roomName": "ราชาวดี2",
+      "purpose": "ห้อง ม.2/6 SMTE",
+      "raw": "ราชาวดี2 ห้องของ ห้อง ม.2/6 SMTE ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "ห้องราชาวดีและลานศิลป์.pdf",
+      "page": 2
+    },
+    {
+      "building": "ห้องราชาวดีและลานศิลป์",
+      "roomName": "ราชาวดี3",
+      "purpose": "ห้อง ม.1/6",
+      "raw": "ราชาวดี3 ห้องของ ห้อง ม.1/6 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "ห้องราชาวดีและลานศิลป์.pdf",
+      "page": 3
+    },
+    {
+      "building": "ห้องราชาวดีและลานศิลป์",
+      "roomName": "ราชาวดี4",
+      "purpose": "ห้อง ม.6/20",
+      "raw": "ราชาวดี4 ห้องของ ห้อง ม.6/20 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "ห้องราชาวดีและลานศิลป์.pdf",
+      "page": 4
+    },
+    {
+      "building": "ห้องราชาวดีและลานศิลป์",
+      "roomName": "ราชาวดี5",
+      "purpose": "ห้องพักครู SMTE",
+      "raw": "ราชาวดี5 ห้องของ ห้องพักครู SMTE ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "ห้องราชาวดีและลานศิลป์.pdf",
+      "page": 5
+    },
+    {
+      "building": "ห้องราชาวดีและลานศิลป์",
+      "roomName": "ลานศิลป์",
+      "purpose": "",
+      "raw": "ลานศิลป์ ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "ห้องราชาวดีและลานศิลป์.pdf",
+      "page": 6
+    },
+    {
+      "building": "ห้องราชาวดีและลานศิลป์",
+      "roomName": "ลานศิลป์1",
+      "purpose": "ลานศิลป์ ม.6",
+      "raw": "ลานศิลป์1 ห้องของ ลานศิลป์ ม.6 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "ห้องราชาวดีและลานศิลป์.pdf",
+      "page": 7
+    },
+    {
+      "building": "ห้องราชาวดีและลานศิลป์",
+      "roomName": "ศิลปกรรม1",
+      "purpose": "ศิลปกรรม",
+      "raw": "ศิลปกรรม1 ห้องของ ศิลปกรรม ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "ห้องราชาวดีและลานศิลป์.pdf",
+      "page": 8
+    },
+    {
+      "building": "ห้องราชาวดีและลานศิลป์",
+      "roomName": "ห้องกระจก",
+      "purpose": "ห้องกระจก",
+      "raw": "ห้องกระจก ห้องของ ห้องกระจก ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "ห้องราชาวดีและลานศิลป์.pdf",
+      "page": 9
+    },
+    {
+      "building": "อาคาร 2",
+      "roomName": "221",
+      "purpose": "คณิตศาสตร์ 1",
+      "raw": "221 ห้องของ คณิตศาสตร์ 1 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 2.pdf",
+      "page": 1
+    },
+    {
+      "building": "อาคาร 2",
+      "roomName": "222",
+      "purpose": "คณิตศาสตร์ 2",
+      "raw": "222 ห้องของ คณิตศาสตร์ 2 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 2.pdf",
+      "page": 2
+    },
+    {
+      "building": "อาคาร 2",
+      "roomName": "223",
+      "purpose": "คณิตศาสตร์ 3",
+      "raw": "223 ห้องของ คณิตศาสตร์ 3 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 2.pdf",
+      "page": 3
+    },
+    {
+      "building": "อาคาร 2",
+      "roomName": "224",
+      "purpose": "คณิตศาสตร์ 4",
+      "raw": "224 ห้องของ คณิตศาสตร์ 4 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 2.pdf",
+      "page": 4
+    },
+    {
+      "building": "อาคาร 2",
+      "roomName": "233",
+      "purpose": "คณิตศาสตร์ 5",
+      "raw": "233 ห้องของ คณิตศาสตร์ 5 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 2.pdf",
+      "page": 5
+    },
+    {
+      "building": "อาคาร 2",
+      "roomName": "241",
+      "purpose": "คณิตศาสตร ◌์6",
+      "raw": "241 ห้องของ คณิตศาสตร ◌์6 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 2.pdf",
+      "page": 6
+    },
+    {
+      "building": "อาคาร 2",
+      "roomName": "242",
+      "purpose": "คณิตศาสตร ◌์7",
+      "raw": "242 ห้องของ คณิตศาสตร ◌์7 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 2.pdf",
+      "page": 7
+    },
+    {
+      "building": "อาคาร 2",
+      "roomName": "243",
+      "purpose": "ม.5/5 SMT",
+      "raw": "243 ห้องของ ม.5/5 SMT ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 2.pdf",
+      "page": 8
+    },
+    {
+      "building": "อาคาร 2",
+      "roomName": "244",
+      "purpose": "ม.◌ุ6/5 SMT",
+      "raw": "244 ห้องของ ม.◌ุ6/5 SMT ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 2.pdf",
+      "page": 9
+    },
+    {
+      "building": "อาคาร 3",
+      "roomName": "321",
+      "purpose": "ห้องชีววิทยา",
+      "raw": "321 ห้องของ ห้องชีววิทยา ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 3.pdf",
+      "page": 1
+    },
+    {
+      "building": "อาคาร 3",
+      "roomName": "322",
+      "purpose": "ห้องชีววิทยา",
+      "raw": "322 ห้องของ ห้องชีววิทยา ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 3.pdf",
+      "page": 2
+    },
+    {
+      "building": "อาคาร 3",
+      "roomName": "323",
+      "purpose": "ห้องชีววิทยา",
+      "raw": "323 ห้องของ ห้องชีววิทยา ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 3.pdf",
+      "page": 3
+    },
+    {
+      "building": "อาคาร 3",
+      "roomName": "331",
+      "purpose": "ห้องวิทยาศาสตร์",
+      "raw": "331 ห้องของ ห้องวิทยาศาสตร์ ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 3.pdf",
+      "page": 4
+    },
+    {
+      "building": "อาคาร 3",
+      "roomName": "332",
+      "purpose": "ห้องวิทยาศาสตร์",
+      "raw": "332 ห้องของ ห้องวิทยาศาสตร์ ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 3.pdf",
+      "page": 5
+    },
+    {
+      "building": "อาคาร 3",
+      "roomName": "333",
+      "purpose": "ห้องวิทยาศาสตร์",
+      "raw": "333 ห้องของ ห้องวิทยาศาสตร์ ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 3.pdf",
+      "page": 6
+    },
+    {
+      "building": "อาคาร 3",
+      "roomName": "341",
+      "purpose": "ห้องฟิสิกส์",
+      "raw": "341 ห้องของ ห้องฟิสิกส์ ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 3.pdf",
+      "page": 7
+    },
+    {
+      "building": "อาคาร 3",
+      "roomName": "342",
+      "purpose": "ห้องดาราศาสตร์",
+      "raw": "342 ห้องของ ห้องดาราศาสตร์ ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 3.pdf",
+      "page": 8
+    },
+    {
+      "building": "อาคาร 4",
+      "roomName": "410",
+      "purpose": "ทัศนศิลป์",
+      "raw": "410 ห้องของ ทัศนศิลป์ ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 4.pdf",
+      "page": 1
+    },
+    {
+      "building": "อาคาร 4",
+      "roomName": "411",
+      "purpose": "ทัศนศิลป์",
+      "raw": "411 ห้องของ ทัศนศิลป์ ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 4.pdf",
+      "page": 2
+    },
+    {
+      "building": "อาคาร 4",
+      "roomName": "412",
+      "purpose": "นาฏศิลป์ 1",
+      "raw": "412 ห้องของ นาฏศิลป์ 1 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 4.pdf",
+      "page": 3
+    },
+    {
+      "building": "อาคาร 4",
+      "roomName": "420",
+      "purpose": "ห้องพุทธศาสนา",
+      "raw": "420 ห้องของ ห้องพุทธศาสนา ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 4.pdf",
+      "page": 4
+    },
+    {
+      "building": "อาคาร 4",
+      "roomName": "430",
+      "purpose": "ม.1/5 SMT",
+      "raw": "430 ห้องของ ม.1/5 SMT ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 4.pdf",
+      "page": 5
+    },
+    {
+      "building": "อาคาร 4",
+      "roomName": "431",
+      "purpose": "ม.2/5 SMT",
+      "raw": "431 ห้องของ ม.2/5 SMT ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 4.pdf",
+      "page": 6
+    },
+    {
+      "building": "อาคาร 4",
+      "roomName": "432",
+      "purpose": "ม.3/6 SMT",
+      "raw": "432 ห้องของ ม.3/6 SMT ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 4.pdf",
+      "page": 7
+    },
+    {
+      "building": "อาคาร 4",
+      "roomName": "433",
+      "purpose": "ม.4/5 SMT",
+      "raw": "433 ห้องของ ม.4/5 SMT ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 4.pdf",
+      "page": 8
+    },
+    {
+      "building": "อาคาร 4",
+      "roomName": "440",
+      "purpose": "คณิตศาสตร์ 7",
+      "raw": "440 ห้องของ คณิตศาสตร์ 7 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 4.pdf",
+      "page": 9
+    },
+    {
+      "building": "อาคาร 4",
+      "roomName": "441",
+      "purpose": "EIS 1/14",
+      "raw": "441 ห้องของ EIS 1/14 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 4.pdf",
+      "page": 10
+    },
+    {
+      "building": "อาคาร 4",
+      "roomName": "442",
+      "purpose": "EIS 2/14",
+      "raw": "442 ห้องของ EIS 2/14 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 4.pdf",
+      "page": 11
+    },
+    {
+      "building": "อาคาร 4",
+      "roomName": "443",
+      "purpose": "EIS 3/14",
+      "raw": "443 ห้องของ EIS 3/14 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 4.pdf",
+      "page": 12
+    },
+    {
+      "building": "อาคาร 5",
+      "roomName": "521",
+      "purpose": "ภาษาไทย 1",
+      "raw": "521 ห้องของ ภาษาไทย 1 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 5.pdf",
+      "page": 1
+    },
+    {
+      "building": "อาคาร 5",
+      "roomName": "522",
+      "purpose": "ภาษาไทย 2",
+      "raw": "522 ห้องของ ภาษาไทย 2 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 5.pdf",
+      "page": 2
+    },
+    {
+      "building": "อาคาร 5",
+      "roomName": "523",
+      "purpose": "ภาษาไทย 3",
+      "raw": "523 ห้องของ ภาษาไทย 3 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 5.pdf",
+      "page": 3
+    },
+    {
+      "building": "อาคาร 5",
+      "roomName": "525",
+      "purpose": "ภาษาไทย 4",
+      "raw": "525 ห้องของ ภาษาไทย 4 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 5.pdf",
+      "page": 4
+    },
+    {
+      "building": "อาคาร 5",
+      "roomName": "526",
+      "purpose": "ภาษาไทย 5",
+      "raw": "526 ห้องของ ภาษาไทย 5 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 5.pdf",
+      "page": 5
+    },
+    {
+      "building": "อาคาร 5",
+      "roomName": "527",
+      "purpose": "ภาษาไทย 6",
+      "raw": "527 ห้องของ ภาษาไทย 6 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 5.pdf",
+      "page": 6
+    },
+    {
+      "building": "อาคาร 5",
+      "roomName": "528",
+      "purpose": "ภาษาไทย 7",
+      "raw": "528 ห้องของ ภาษาไทย 7 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 5.pdf",
+      "page": 7
+    },
+    {
+      "building": "อาคาร 5",
+      "roomName": "531",
+      "purpose": "ภาษาอังกฤษ 1",
+      "raw": "531 ห้องของ ภาษาอังกฤษ 1 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 5.pdf",
+      "page": 8
+    },
+    {
+      "building": "อาคาร 5",
+      "roomName": "532",
+      "purpose": "ภาษาอังกฤษ 2",
+      "raw": "532 ห้องของ ภาษาอังกฤษ 2 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 5.pdf",
+      "page": 9
+    },
+    {
+      "building": "อาคาร 5",
+      "roomName": "536",
+      "purpose": "ภาษาอังกฤษ 3",
+      "raw": "536 ห้องของ ภาษาอังกฤษ 3 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 5.pdf",
+      "page": 10
+    },
+    {
+      "building": "อาคาร 5",
+      "roomName": "537",
+      "purpose": "ภาษาอังกฤษ 4",
+      "raw": "537 ห้องของ ภาษาอังกฤษ 4 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 5.pdf",
+      "page": 11
+    },
+    {
+      "building": "อาคาร 5",
+      "roomName": "541",
+      "purpose": "ภาษาอังกฤษ 5",
+      "raw": "541 ห้องของ ภาษาอังกฤษ 5 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 5.pdf",
+      "page": 12
+    },
+    {
+      "building": "อาคาร 5",
+      "roomName": "542",
+      "purpose": "ภาษาฝรั่งเศส 1",
+      "raw": "542 ห้องของ ภาษาฝรั่งเศส 1 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 5.pdf",
+      "page": 13
+    },
+    {
+      "building": "อาคาร 5",
+      "roomName": "544",
+      "purpose": "ภาษาอังกฤษ 6",
+      "raw": "544 ห้องของ ภาษาอังกฤษ 6 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 5.pdf",
+      "page": 14
+    },
+    {
+      "building": "อาคาร 5",
+      "roomName": "545",
+      "purpose": "ภาษาจีน",
+      "raw": "545 ห้องของ ภาษาจีน ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 5.pdf",
+      "page": 15
+    },
+    {
+      "building": "อาคาร 5",
+      "roomName": "546",
+      "purpose": "ภาษาเกาหลี",
+      "raw": "546 ห้องของ ภาษาเกาหลี ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 5.pdf",
+      "page": 16
+    },
+    {
+      "building": "อาคาร 5",
+      "roomName": "547",
+      "purpose": "ภาษาญี่ปุ่น",
+      "raw": "547 ห้องของ ภาษาญี่ปุ่น ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 5.pdf",
+      "page": 17
+    },
+    {
+      "building": "อาคาร 6",
+      "roomName": "622",
+      "purpose": "ห้องประชุม",
+      "raw": "622 ห้องของ ห้องประชุม ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 6.pdf",
+      "page": 1
+    },
+    {
+      "building": "อาคาร 6",
+      "roomName": "ดนตรี วง",
+      "purpose": "ดนตรีสากล 2",
+      "raw": "ดนตรี วง ห้องของ ดนตรีสากล 2 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 6.pdf",
+      "page": 2
+    },
+    {
+      "building": "อาคาร 6",
+      "roomName": "ดนตรี โย",
+      "purpose": "โยธวาทิต",
+      "raw": "ดนตรี โย ห้องของ โยธวาทิต ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 6.pdf",
+      "page": 3
+    },
+    {
+      "building": "อาคาร 6",
+      "roomName": "ดนตรีสากล",
+      "purpose": "",
+      "raw": "ดนตรีสากล ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 6.pdf",
+      "page": 4
+    },
+    {
+      "building": "อาคาร 6",
+      "roomName": "ดนตรีไทย",
+      "purpose": "ดนตรีไทย",
+      "raw": "ดนตรีไทย ห้องของ ดนตรีไทย ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 6.pdf",
+      "page": 5
+    },
+    {
+      "building": "อาคาร 60 ปี",
+      "roomName": "8302",
+      "purpose": "ม.4/1",
+      "raw": "8302 ห้องของ ม.4/1 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 60 ปี.pdf",
+      "page": 1
+    },
+    {
+      "building": "อาคาร 60 ปี",
+      "roomName": "8303",
+      "purpose": "ม.5/1",
+      "raw": "8303 ห้องของ ม.5/1 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 60 ปี.pdf",
+      "page": 2
+    },
+    {
+      "building": "อาคาร 60 ปี",
+      "roomName": "8304",
+      "purpose": "ม.4/20",
+      "raw": "8304 ห้องของ ม.4/20 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 60 ปี.pdf",
+      "page": 3
+    },
+    {
+      "building": "อาคาร 60 ปี",
+      "roomName": "8309",
+      "purpose": "SMA",
+      "raw": "8309 ห้องของ SMA ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 60 ปี.pdf",
+      "page": 4
+    },
+    {
+      "building": "อาคาร 60 ปี",
+      "roomName": "8310",
+      "purpose": "ม.5/20",
+      "raw": "8310 ห้องของ ม.5/20 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 60 ปี.pdf",
+      "page": 5
+    },
+    {
+      "building": "อาคาร 60 ปี",
+      "roomName": "8403",
+      "purpose": "ม.1/3 SMA",
+      "raw": "8403 ห้องของ ม.1/3 SMA ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 60 ปี.pdf",
+      "page": 6
+    },
+    {
+      "building": "อาคาร 60 ปี",
+      "roomName": "8404",
+      "purpose": "ม.1/4 SMA",
+      "raw": "8404 ห้องของ ม.1/4 SMA ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 60 ปี.pdf",
+      "page": 7
+    },
+    {
+      "building": "อาคาร 60 ปี",
+      "roomName": "8405",
+      "purpose": "ม.2/3 SMA",
+      "raw": "8405 ห้องของ ม.2/3 SMA ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 60 ปี.pdf",
+      "page": 8
+    },
+    {
+      "building": "อาคาร 60 ปี",
+      "roomName": "8501",
+      "purpose": "ม.2/4 SMA",
+      "raw": "8501 ห้องของ ม.2/4 SMA ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 60 ปี.pdf",
+      "page": 9
+    },
+    {
+      "building": "อาคาร 60 ปี",
+      "roomName": "8502",
+      "purpose": "ม.3/3 SMA",
+      "raw": "8502 ห้องของ ม.3/3 SMA ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 60 ปี.pdf",
+      "page": 10
+    },
+    {
+      "building": "อาคาร 60 ปี",
+      "roomName": "8503",
+      "purpose": "ม.3/4 SMA",
+      "raw": "8503 ห้องของ ม.3/4 SMA ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 60 ปี.pdf",
+      "page": 11
+    },
+    {
+      "building": "อาคาร 60 ปี",
+      "roomName": "8504",
+      "purpose": "ม.3/5 SMA",
+      "raw": "8504 ห้องของ ม.3/5 SMA ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 60 ปี.pdf",
+      "page": 12
+    },
+    {
+      "building": "อาคาร 60 ปี",
+      "roomName": "8505",
+      "purpose": "ม.4/2 SMA",
+      "raw": "8505 ห้องของ ม.4/2 SMA ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 60 ปี.pdf",
+      "page": 13
+    },
+    {
+      "building": "อาคาร 60 ปี",
+      "roomName": "8601",
+      "purpose": "ม.4/3 SMA",
+      "raw": "8601 ห้องของ ม.4/3 SMA ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 60 ปี.pdf",
+      "page": 14
+    },
+    {
+      "building": "อาคาร 60 ปี",
+      "roomName": "8602",
+      "purpose": "ม.4/4 SMA",
+      "raw": "8602 ห้องของ ม.4/4 SMA ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 60 ปี.pdf",
+      "page": 15
+    },
+    {
+      "building": "อาคาร 60 ปี",
+      "roomName": "8603",
+      "purpose": "ม.5/2 SMA",
+      "raw": "8603 ห้องของ ม.5/2 SMA ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 60 ปี.pdf",
+      "page": 16
+    },
+    {
+      "building": "อาคาร 60 ปี",
+      "roomName": "8604",
+      "purpose": "ม.5/3 SMA",
+      "raw": "8604 ห้องของ ม.5/3 SMA ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 60 ปี.pdf",
+      "page": 17
+    },
+    {
+      "building": "อาคาร 60 ปี",
+      "roomName": "8605",
+      "purpose": "ม.5/4 SMA",
+      "raw": "8605 ห้องของ ม.5/4 SMA ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 60 ปี.pdf",
+      "page": 18
+    },
+    {
+      "building": "อาคาร 60 ปี",
+      "roomName": "8701",
+      "purpose": "ม.6/2 SMA",
+      "raw": "8701 ห้องของ ม.6/2 SMA ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 60 ปี.pdf",
+      "page": 19
+    },
+    {
+      "building": "อาคาร 60 ปี",
+      "roomName": "8702",
+      "purpose": "ห้องประจํา 6/1",
+      "raw": "8702 ห้องของ ห้องประจํา 6/1 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 60 ปี.pdf",
+      "page": 20
+    },
+    {
+      "building": "อาคาร 60 ปี",
+      "roomName": "8703",
+      "purpose": "ม.6/3 SMA",
+      "raw": "8703 ห้องของ ม.6/3 SMA ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 60 ปี.pdf",
+      "page": 21
+    },
+    {
+      "building": "อาคาร 60 ปี",
+      "roomName": "8704",
+      "purpose": "ม.6/4 SMA",
+      "raw": "8704 ห้องของ ม.6/4 SMA ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 60 ปี.pdf",
+      "page": 22
+    },
+    {
+      "building": "อาคาร 60 ปี",
+      "roomName": "Lab1",
+      "purpose": "SMA Lab",
+      "raw": "Lab1 ห้องของ SMA Lab ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 60 ปี.pdf",
+      "page": 23
+    },
+    {
+      "building": "อาคาร 60 ปี",
+      "roomName": "Lab3",
+      "purpose": "Chem Lab",
+      "raw": "Lab3 ห้องของ Chem Lab ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 60 ปี.pdf",
+      "page": 24
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7201",
+      "purpose": "คอมพิวเตอร์",
+      "raw": "7201 ห้องของ คอมพิวเตอร์ ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 1
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7202",
+      "purpose": "คอมพิวเตอร์",
+      "raw": "7202 ห้องของ คอมพิวเตอร์ ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 2
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7203",
+      "purpose": "ออกแบบ&เทคโน 1",
+      "raw": "7203 ห้องของ ออกแบบ&เทคโน 1 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 3
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7204",
+      "purpose": "คอมพิวเตอร์",
+      "raw": "7204 ห้องของ คอมพิวเตอร์ ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 4
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7205",
+      "purpose": "ออกแบบ&เทคโน 2",
+      "raw": "7205 ห้องของ ออกแบบ&เทคโน 2 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 5
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7206",
+      "purpose": "ห้องฟิสิกส์",
+      "raw": "7206 ห้องของ ห้องฟิสิกส์ ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 6
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "72อุตฯ1-1",
+      "purpose": "เกษตร",
+      "raw": "72อุตฯ1-1 ห้องของ เกษตร ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 7
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "72อุตฯ2-1",
+      "purpose": "อุตฯ ม.ปลาย",
+      "raw": "72อุตฯ2-1 ห้องของ อุตฯ ม.ปลาย ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 8
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "72อุตฯ3-1",
+      "purpose": "อุตฯ ม.ต้น",
+      "raw": "72อุตฯ3-1 ห้องของ อุตฯ ม.ต้น ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 9
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "72อุตฯ3-2",
+      "purpose": "อุตฯ (ห้องเล็ก)",
+      "raw": "72อุตฯ3-2 ห้องของ อุตฯ (ห้องเล็ก) ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 10
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7301",
+      "purpose": "นาฏศิลป์ 1",
+      "raw": "7301 ห้องของ นาฏศิลป์ 1 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 11
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7302",
+      "purpose": "นาฏศิลป์-พักครู",
+      "raw": "7302 ห้องของ นาฏศิลป์-พักครู ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 12
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7304",
+      "purpose": "ห้องวิทยาศาสตร์",
+      "raw": "7304 ห้องของ ห้องวิทยาศาสตร์ ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 13
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7305",
+      "purpose": "ห้องเคมี",
+      "raw": "7305 ห้องของ ห้องเคมี ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 14
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7306",
+      "purpose": "ห้องเคมี",
+      "raw": "7306 ห้องของ ห้องเคมี ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 15
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7307",
+      "purpose": "ห้องวิทย์",
+      "raw": "7307 ห้องของ ห้องวิทย์ ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 16
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7402",
+      "purpose": "ภาษาต่างประเทศ",
+      "raw": "7402 ห้องของ ภาษาต่างประเทศ ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 17
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7403",
+      "purpose": "ภาษาต่างประเทศ",
+      "raw": "7403 ห้องของ ภาษาต่างประเทศ ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 18
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7404",
+      "purpose": "ห้องธุรกิจ1",
+      "raw": "7404 ห้องของ ห้องธุรกิจ1 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 19
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7500",
+      "purpose": "ห้องสมุดสังคมฯ",
+      "raw": "7500 ห้องของ ห้องสมุดสังคมฯ ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 20
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7502",
+      "purpose": "M 1/1",
+      "raw": "7502 ห้องของ M 1/1 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 21
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7503",
+      "purpose": "M 1/2",
+      "raw": "7503 ห้องของ M 1/2 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 22
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7504",
+      "purpose": "M 2/1",
+      "raw": "7504 ห้องของ M 2/1 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 23
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7505",
+      "purpose": "M 2/2",
+      "raw": "7505 ห้องของ M 2/2 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 24
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7506",
+      "purpose": "สังคมศึกษา",
+      "raw": "7506 ห้องของ สังคมศึกษา ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 25
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7507",
+      "purpose": "สังคมศึกษา",
+      "raw": "7507 ห้องของ สังคมศึกษา ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 26
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7509",
+      "purpose": "สืบค้น EP",
+      "raw": "7509 ห้องของ สืบค้น EP ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 27
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7510",
+      "purpose": "M 6/12",
+      "raw": "7510 ห้องของ M 6/12 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 28
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7511",
+      "purpose": "M 5/12",
+      "raw": "7511 ห้องของ M 5/12 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 29
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7512",
+      "purpose": "M 4/12",
+      "raw": "7512 ห้องของ M 4/12 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 30
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7513",
+      "purpose": "M 3/2",
+      "raw": "7513 ห้องของ M 3/2 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 31
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7515",
+      "purpose": "M 3/1",
+      "raw": "7515 ห้องของ M 3/1 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 32
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7601",
+      "purpose": "ห้องประจํา 6/19",
+      "raw": "7601 ห้องของ ห้องประจํา 6/19 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 33
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7602",
+      "purpose": "ห้องประจํา 5/19",
+      "raw": "7602 ห้องของ ห้องประจํา 5/19 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 34
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7603",
+      "purpose": "ห้องประจํา 4/19",
+      "raw": "7603 ห้องของ ห้องประจํา 4/19 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 35
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7604",
+      "purpose": "สังคมศึกษา",
+      "raw": "7604 ห้องของ สังคมศึกษา ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 36
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7607",
+      "purpose": "สังคมศึกษา",
+      "raw": "7607 ห้องของ สังคมศึกษา ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 37
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7701",
+      "purpose": "สังคมศึกษา",
+      "raw": "7701 ห้องของ สังคมศึกษา ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 38
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7702",
+      "purpose": "สังคมศึกษา",
+      "raw": "7702 ห้องของ สังคมศึกษา ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 39
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7703",
+      "purpose": "สังคมศึกษา",
+      "raw": "7703 ห้องของ สังคมศึกษา ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 40
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7704",
+      "purpose": "สังคมศึกษา",
+      "raw": "7704 ห้องของ สังคมศึกษา ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 41
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7705",
+      "purpose": "สังคมศึกษา",
+      "raw": "7705 ห้องของ สังคมศึกษา ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 42
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "7707",
+      "purpose": "พระพุทธศาสนา",
+      "raw": "7707 ห้องของ พระพุทธศาสนา ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 43
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "คอมSMT",
+      "purpose": "ห้องคอมพิวเตอร์",
+      "raw": "คอมSMT ห้องของ ห้องคอมพิวเตอร์ ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 44
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "ประดิษฐ์1",
+      "purpose": "ห้องประดิษฐ์ 1",
+      "raw": "ประดิษฐ์1 ห้องของ ห้องประดิษฐ์ 1 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 45
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "ประดิษฐ์2",
+      "purpose": "ห้องประดิษฐ์ 2",
+      "raw": "ประดิษฐ์2 ห้องของ ห้องประดิษฐ์ 2 ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 46
+    },
+    {
+      "building": "อาคาร 7",
+      "roomName": "อาหาร1",
+      "purpose": "ครูคณองสิน",
+      "raw": "อาหาร1 ห้องของ ครูคณองสิน ภาคเรียนที่ 2/2569 โรงเรียนหาดใหญ่วิทยาลัย",
+      "pdf": "อาคาร 7.pdf",
+      "page": 47
+    }
+  ]
+}
